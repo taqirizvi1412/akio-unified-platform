@@ -1,0 +1,1259 @@
+[
+  {
+    "timestamp": "2025-06-17 12:24:21",
+    "email": "Bonjour,\n\nSur votre page FAQ, le lien “Politique de confidentialité” renvoie une erreur 404. Pourriez‑vous le réparer ?\n\nMerci,  \nClaire Fontaine\n",
+    "language": "French",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "General Inquiry",
+    "specific_topic": "General Inquiry",
+    "keywords": [
+      "bonjour",
+      "votre",
+      "page",
+      "lien",
+      "politique"
+    ],
+    "customer_name": "Claire Fontaine",
+    "word_count": 21,
+    "urgent": false,
+    "response": "Error generating response: 'general'"
+  },
+  {
+    "timestamp": "2025-06-17 12:25:01",
+    "email": "Bonjour,\n\nSur votre page FAQ, le lien “Politique de confidentialité” renvoie une erreur 404. Pourriez‑vous le réparer ?\n\nMerci,  \nClaire Fontaine\n",
+    "language": "French",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "General Inquiry",
+    "specific_topic": "General Inquiry",
+    "keywords": [
+      "bonjour",
+      "votre",
+      "page",
+      "lien",
+      "politique"
+    ],
+    "customer_name": "Claire Fontaine",
+    "word_count": 21,
+    "urgent": false,
+    "response": "Error generating response: 'general'"
+  },
+  {
+    "timestamp": "2025-06-17 12:25:04",
+    "email": "Bonjour,\n\nSur votre page FAQ, le lien “Politique de confidentialité” renvoie une erreur 404. Pourriez‑vous le réparer ?\n\nMerci,  \nClaire Fontaine\n",
+    "language": "French",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "General Inquiry",
+    "specific_topic": "General Inquiry",
+    "keywords": [
+      "bonjour",
+      "votre",
+      "page",
+      "lien",
+      "politique"
+    ],
+    "customer_name": "Claire Fontaine",
+    "word_count": 21,
+    "urgent": false,
+    "response": "Error generating response: 'general'"
+  },
+  {
+    "timestamp": "2025-06-17 12:25:15",
+    "email": "Bonjour,\n\nSur votre page FAQ, le lien “Politique de confidentialité” renvoie une erreur 404. Pourriez‑vous le réparer ?\n\nMerci,  \nClaire\n",
+    "language": "French",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "General Inquiry",
+    "specific_topic": "General Inquiry",
+    "keywords": [
+      "bonjour",
+      "votre",
+      "page",
+      "lien",
+      "politique"
+    ],
+    "customer_name": "Claire",
+    "word_count": 20,
+    "urgent": false,
+    "response": "Error generating response: 'general'"
+  },
+  {
+    "timestamp": "2025-06-17 12:28:41",
+    "email": "Bonjour,\n\nSur votre page FAQ, le lien “Politique de confidentialité” renvoie une erreur 404. Pourriez‑vous le réparer ?\n\nMerci,  \nClaire\n",
+    "language": "French",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "Technical Support",
+    "specific_topic": "General Inquiry",
+    "keywords": [
+      "bonjour",
+      "votre",
+      "page",
+      "lien",
+      "politique"
+    ],
+    "customer_name": "Claire",
+    "word_count": 20,
+    "urgent": false,
+    "response": "Dear Claire,\n\nThank you for bringing this broken link to our attention. I sincerely apologize for the inconvenience this has caused.\n\nI've immediately forwarded this issue to our web development team, and here's what we're doing:\n\n• The broken Privacy Policy link on our FAQ page has been identified and logged\n• Our technical team is working to fix this link with the highest priority\n• We expect to have this resolved within the next 24 hours\n• I'll personally follow up to ensure the link is working properly\n\nIn the meantime, you can access our Privacy Policy directly at: [website]/privacy-policy\n\nThank you for helping us improve our website. Users like you who take the time to report issues help us maintain a better experience for everyone.\n\nIf you notice any other issues or have questions about our privacy policy, please don't hesitate to reach out.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-17 15:07:53",
+    "email": "Hi,\n\nI returned my order #901234 two weeks ago. Could you confirm that my refund has been processed?\n\nMany thanks,  \nDaniel Müller\n",
+    "language": "English",
+    "sentiment": "Positive",
+    "sentiment_score": 0.35,
+    "email_type": "Refund Request",
+    "specific_topic": "Order Status",
+    "keywords": [
+      "returned",
+      "order",
+      "weeks",
+      "confirm",
+      "refund"
+    ],
+    "customer_name": "Daniel Müller",
+    "word_count": 22,
+    "urgent": false,
+    "response": "Dear Daniel Müller,\n\nThank you for bringing this billing issue to our attention. I've reviewed your account and I can confirm that you were indeed charged twice for the Premium Subscription (€19.99 each) last month.\n\nI sincerely apologize for this error. Here's what I've done to resolve this:\n\n• I've initiated a full refund of €19.99 for the duplicate charge\n• The refund will appear in your account within 3-5 business days\n• I've added a note to your account to prevent this from happening again\n• Your current subscription remains active with the correct single charge\n\nTo ensure everything is correct moving forward, your next invoice will show only one Premium Subscription charge of €19.99.\n\nIf you don't see the refund within 5 business days, or if you have any other questions, please don't hesitate to reach out with reference number #RF-20250617-001.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-17 16:49:55",
+    "email": "Hello,\n\nI purchased the wireless headphones last week. Could you send me the user manual in PDF format?\n\nBest regards,  \nRoberto Rossi\n",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "General Inquiry",
+    "specific_topic": "General Inquiry",
+    "keywords": [
+      "purchased",
+      "wireless",
+      "headphones",
+      "last",
+      "week"
+    ],
+    "customer_name": "Roberto Rossi",
+    "word_count": 22,
+    "urgent": false,
+    "response": "Dear Roberto Rossi,\n\nThank you for contacting us. I've carefully reviewed your message and I'm here to assist you.\n\nBased on your email about general inquiry, I've taken the following immediate actions:\n\n• Thoroughly reviewed your concern\n• Identified the specific issue you're facing\n• Implemented a solution to address your needs\n\nHere's what happens next:\n- You'll receive a confirmation email within the next hour\n- Any applicable changes will take effect immediately\n- Our team will monitor your request to ensure everything works smoothly\n\nIf you need any clarification or have additional questions, please don't hesitate to reach out. Your satisfaction is our priority.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-17 16:51:11",
+    "email": "Hello,\n\nI need reimbursment, Now !!!\n\nBest regards,  \nRoberto Rossi\n",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "General Inquiry",
+    "specific_topic": "General Inquiry",
+    "keywords": [
+      "need",
+      "reimbursment",
+      "roberto",
+      "rossi"
+    ],
+    "customer_name": "Roberto Rossi",
+    "word_count": 10,
+    "urgent": false,
+    "response": "Dear Roberto Rossi,\n\nThank you for contacting us. I've carefully reviewed your message and I'm here to assist you.\n\nBased on your email about general inquiry, I've taken the following immediate actions:\n\n• Thoroughly reviewed your concern\n• Identified the specific issue you're facing\n• Implemented a solution to address your needs\n\nHere's what happens next:\n- You'll receive a confirmation email within the next hour\n- Any applicable changes will take effect immediately\n- Our team will monitor your request to ensure everything works smoothly\n\nIf you need any clarification or have additional questions, please don't hesitate to reach out. Your satisfaction is our priority.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-17 16:51:15",
+    "email": "Hello,\n\nI need reimbursment, Now !!!\n\nBest regards,  \nRoberto Rossi\n",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "General Inquiry",
+    "specific_topic": "General Inquiry",
+    "keywords": [
+      "need",
+      "reimbursment",
+      "roberto",
+      "rossi"
+    ],
+    "customer_name": "Roberto Rossi",
+    "word_count": 10,
+    "urgent": false,
+    "response": "Dear Roberto Rossi,\n\nThank you for contacting us. I've carefully reviewed your message and I'm here to assist you.\n\nBased on your email about general inquiry, I've taken the following immediate actions:\n\n• Thoroughly reviewed your concern\n• Identified the specific issue you're facing\n• Implemented a solution to address your needs\n\nHere's what happens next:\n- You'll receive a confirmation email within the next hour\n- Any applicable changes will take effect immediately\n- Our team will monitor your request to ensure everything works smoothly\n\nIf you need any clarification or have additional questions, please don't hesitate to reach out. Your satisfaction is our priority.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-17 16:51:16",
+    "email": "Hello,\n\nI need reimbursment, Now !!!\n\nBest regards,  \nRoberto Rossi\n",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "General Inquiry",
+    "specific_topic": "General Inquiry",
+    "keywords": [
+      "need",
+      "reimbursment",
+      "roberto",
+      "rossi"
+    ],
+    "customer_name": "Roberto Rossi",
+    "word_count": 10,
+    "urgent": false,
+    "response": "Dear Roberto Rossi,\n\nThank you for contacting us. I've carefully reviewed your message and I'm here to assist you.\n\nBased on your email about general inquiry, I've taken the following immediate actions:\n\n• Thoroughly reviewed your concern\n• Identified the specific issue you're facing\n• Implemented a solution to address your needs\n\nHere's what happens next:\n- You'll receive a confirmation email within the next hour\n- Any applicable changes will take effect immediately\n- Our team will monitor your request to ensure everything works smoothly\n\nIf you need any clarification or have additional questions, please don't hesitate to reach out. Your satisfaction is our priority.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-17 16:52:04",
+    "email": "Hello,\n\nI need reimbursment, Now !!!\n\nBest regards,  \nRoberto\n",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "General Inquiry",
+    "specific_topic": "General Inquiry",
+    "keywords": [
+      "need",
+      "reimbursment",
+      "roberto"
+    ],
+    "customer_name": "Roberto",
+    "word_count": 9,
+    "urgent": false,
+    "response": "Dear Roberto,\n\nThank you for contacting us. I've carefully reviewed your message and I'm here to assist you.\n\nBased on your email about general inquiry, I've taken the following immediate actions:\n\n• Thoroughly reviewed your concern\n• Identified the specific issue you're facing\n• Implemented a solution to address your needs\n\nHere's what happens next:\n- You'll receive a confirmation email within the next hour\n- Any applicable changes will take effect immediately\n- Our team will monitor your request to ensure everything works smoothly\n\nIf you need any clarification or have additional questions, please don't hesitate to reach out. Your satisfaction is our priority.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-17 16:58:20",
+    "email": "hello",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "General Inquiry",
+    "specific_topic": "General Inquiry",
+    "keywords": [],
+    "customer_name": "Valued Customer",
+    "word_count": 1,
+    "urgent": false,
+    "response": "Dear Valued Customer,\n\nThank you for contacting us. I've carefully reviewed your message and I'm here to assist you.\n\nBased on your email about general inquiry, I've taken the following immediate actions:\n\n• Thoroughly reviewed your concern\n• Identified the specific issue you're facing\n• Implemented a solution to address your needs\n\nHere's what happens next:\n- You'll receive a confirmation email within the next hour\n- Any applicable changes will take effect immediately\n- Our team will monitor your request to ensure everything works smoothly\n\nIf you need any clarification or have additional questions, please don't hesitate to reach out. Your satisfaction is our priority.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-17 16:58:37",
+    "email": "Taqi",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "General Inquiry",
+    "specific_topic": "General Inquiry",
+    "keywords": [
+      "taqi"
+    ],
+    "customer_name": "Taqi",
+    "word_count": 1,
+    "urgent": false,
+    "response": "Dear Taqi,\n\nThank you for contacting us. I've carefully reviewed your message and I'm here to assist you.\n\nBased on your email about general inquiry, I've taken the following immediate actions:\n\n• Thoroughly reviewed your concern\n• Identified the specific issue you're facing\n• Implemented a solution to address your needs\n\nHere's what happens next:\n- You'll receive a confirmation email within the next hour\n- Any applicable changes will take effect immediately\n- Our team will monitor your request to ensure everything works smoothly\n\nIf you need any clarification or have additional questions, please don't hesitate to reach out. Your satisfaction is our priority.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-17 16:58:48",
+    "email": "Hola",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "General Inquiry",
+    "specific_topic": "General Inquiry",
+    "keywords": [
+      "hola"
+    ],
+    "customer_name": "Hola",
+    "word_count": 1,
+    "urgent": false,
+    "response": "Dear Hola,\n\nThank you for contacting us. I've carefully reviewed your message and I'm here to assist you.\n\nBased on your email about general inquiry, I've taken the following immediate actions:\n\n• Thoroughly reviewed your concern\n• Identified the specific issue you're facing\n• Implemented a solution to address your needs\n\nHere's what happens next:\n- You'll receive a confirmation email within the next hour\n- Any applicable changes will take effect immediately\n- Our team will monitor your request to ensure everything works smoothly\n\nIf you need any clarification or have additional questions, please don't hesitate to reach out. Your satisfaction is our priority.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-17 17:02:44",
+    "email": "Bonjour",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "General Inquiry",
+    "specific_topic": "General Inquiry",
+    "keywords": [
+      "bonjour"
+    ],
+    "customer_name": "Bonjour",
+    "word_count": 1,
+    "urgent": false,
+    "response": "Dear Bonjour,\n\nThank you for contacting us. I've carefully reviewed your message and I'm here to assist you.\n\nBased on your email about general inquiry, I've taken the following immediate actions:\n\n• Thoroughly reviewed your concern\n• Identified the specific issue you're facing\n• Implemented a solution to address your needs\n\nHere's what happens next:\n- You'll receive a confirmation email within the next hour\n- Any applicable changes will take effect immediately\n- Our team will monitor your request to ensure everything works smoothly\n\nIf you need any clarification or have additional questions, please don't hesitate to reach out. Your satisfaction is our priority.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-17 17:03:08",
+    "email": "Hi,\n\nI’m interested in placing a bulk order of 100 units of product X. Do you offer any discounts or special shipping rates?\n\nThank you,  \nAhmed Hassan\n",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "Order Status Inquiry",
+    "specific_topic": "Delivery Problem",
+    "keywords": [
+      "interested",
+      "placing",
+      "bulk",
+      "order",
+      "units"
+    ],
+    "customer_name": "Ahmed Hassan",
+    "word_count": 27,
+    "urgent": false,
+    "response": "Dear Ahmed Hassan,\n\nThank you for contacting us about your order.\n\nI've looked up your order status and here's the current information:\n\n• Order Number: #901234\n• Order Date: June 12, 2025\n• Current Status: In Transit\n• Estimated Delivery: June 19, 2025\n\nYour package is currently with our shipping partner and on its way to you. You can track your shipment using this tracking number: TRK-901234-XYZ\n\nTo track your package:\n1. Visit our shipping partner's website\n2. Enter your tracking number\n3. View real-time updates on your delivery\n\nYou'll receive an email notification once your package has been delivered. If you don't receive your order by the estimated delivery date, please contact us immediately.\n\nIs there anything else I can help you with regarding your order?\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-17 17:03:42",
+    "email": "Hello,\n\nAfter enabling two-factor authentication, I can’t receive the SMS codes. What can I do to access my account?\n\nRegards,  \nNaomi Kim\n",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "General Inquiry",
+    "specific_topic": "Account Access",
+    "keywords": [
+      "enabling",
+      "factor",
+      "authentication",
+      "receive",
+      "codes"
+    ],
+    "customer_name": "Naomi Kim",
+    "word_count": 22,
+    "urgent": false,
+    "response": "Dear Naomi Kim,\n\nThank you for contacting us. I've carefully reviewed your message and I'm here to assist you.\n\nBased on your email about account access, I've taken the following immediate actions:\n\n• Thoroughly reviewed your concern\n• Identified the specific issue you're facing\n• Implemented a solution to address your needs\n\nHere's what happens next:\n- You'll receive a confirmation email within the next hour\n- Any applicable changes will take effect immediately\n- Our team will monitor your request to ensure everything works smoothly\n\nIf you need any clarification or have additional questions, please don't hesitate to reach out. Your satisfaction is our priority.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-17 17:04:20",
+    "email": "Hi,\n\nI returned my order #901234 two weeks ago. Could you confirm that my refund has been processed?\n\nMany thanks,  \nDaniel Müller\n",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "Refund Status Inquiry",
+    "specific_topic": "Order Status",
+    "keywords": [
+      "returned",
+      "order",
+      "weeks",
+      "confirm",
+      "refund"
+    ],
+    "customer_name": "Daniel Müller",
+    "word_count": 22,
+    "urgent": false,
+    "response": "Dear Daniel Müller,\n\nThank you for following up on your refund for order #901234.\n\nI've checked our system and I'm happy to confirm that:\n\n• Your return was received and processed on June 14, 2025\n• The refund of the full purchase amount has been initiated\n• The funds should appear in your original payment method within 2-3 business days from today\n• You should receive a confirmation email shortly with the refund details\n\nPlease note that depending on your bank or credit card company, it may take an additional 1-2 business days for the refund to be reflected in your account.\n\nIf you don't see the refund by June 22, 2025, please let me know and I'll investigate further. Your refund reference number is #REF-901234-20250617.\n\nIs there anything else I can help you with today?\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-17 17:04:50",
+    "email": "Hi,\n\nI returned my order #901234 two weeks ago. Could you confirm that my refund has been processed?\n\nMany thanks,  \nDaniel Müller\n",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "Refund Status Inquiry",
+    "specific_topic": "Order Status",
+    "keywords": [
+      "returned",
+      "order",
+      "weeks",
+      "confirm",
+      "refund"
+    ],
+    "customer_name": "Daniel Müller",
+    "word_count": 22,
+    "urgent": false,
+    "response": "Dear Daniel Müller,\n\nThank you for following up on your refund for order #901234.\n\nI've checked our system and I'm happy to confirm that:\n\n• Your return was received and processed on June 14, 2025\n• The refund of the full purchase amount has been initiated\n• The funds should appear in your original payment method within 2-3 business days from today\n• You should receive a confirmation email shortly with the refund details\n\nPlease note that depending on your bank or credit card company, it may take an additional 1-2 business days for the refund to be reflected in your account.\n\nIf you don't see the refund by June 22, 2025, please let me know and I'll investigate further. Your refund reference number is #REF-901234-20250617.\n\nIs there anything else I can help you with today?\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 10:05:23",
+    "email": "Bonjour,\n\nVotre nouveau design de site web est très clair, mais j’ai eu du mal à trouver la section “Historique de commandes”. Peut-être la rendre plus visible ?\n\nCordialement,  \nMarc Dubois\n",
+    "language": "French",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "Technical Support",
+    "specific_topic": "General Inquiry",
+    "keywords": [
+      "bonjour",
+      "votre",
+      "nouveau",
+      "design",
+      "site"
+    ],
+    "customer_name": "Marc Dubois",
+    "word_count": 31,
+    "urgent": false,
+    "response": "Cher/Chère Marc Dubois,\n\nMerci de nous avoir contactés. J'ai soigneusement examiné votre message concernant general inquiry.\n\nVoici les actions que j'ai entreprises immédiatement :\n\n• J'ai examiné en détail votre préoccupation\n• J'ai identifié le problème spécifique que vous rencontrez\n• J'ai mis en place une solution pour répondre à vos besoins\n\nVoici la suite du processus :\n- Vous recevrez un email de confirmation dans l'heure qui suit\n- Les modifications applicables prendront effet immédiatement\n- Notre équipe surveillera votre demande pour s'assurer que tout fonctionne correctement\n\nSi vous avez besoin de clarifications ou avez des questions supplémentaires, n'hésitez pas à nous contacter. Votre satisfaction est notre priorité.\n\nCordialement,\nService Client"
+  },
+  {
+    "timestamp": "2025-06-18 10:06:16",
+    "email": "Bonjour,\n\nJe voulais juste remercier Marie du service client pour son aide rapide hier. Excellent service !\n\nCordialement,  \nJulien Martin\n",
+    "language": "English",
+    "sentiment": "Positive",
+    "sentiment_score": 0.3,
+    "email_type": "General Inquiry",
+    "specific_topic": "Service Interruption",
+    "keywords": [
+      "service",
+      "bonjour",
+      "voulais",
+      "juste",
+      "remercier"
+    ],
+    "customer_name": "Julien Martin",
+    "word_count": 20,
+    "urgent": false,
+    "response": "Dear Julien Martin,\n\nThank you for contacting us. I've carefully reviewed your message and I'm here to assist you.\n\nBased on your email about service interruption, I've taken the following immediate actions:\n\n• Thoroughly reviewed your concern\n• Identified the specific issue you're facing\n• Implemented a solution to address your needs\n\nHere's what happens next:\n- You'll receive a confirmation email within the next hour\n- Any applicable changes will take effect immediately\n- Our team will monitor your request to ensure everything works smoothly\n\nIf you need any clarification or have additional questions, please don't hesitate to reach out. Your satisfaction is our priority.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 10:07:02",
+    "email": "Hi,\n\nI called support yesterday and the agent was quite rude. I’m disappointed with the experience. Can someone look into this?\n\nSincerely,  \nAnna Novak\n",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "Complaint Resolution",
+    "specific_topic": "General Support",
+    "keywords": [
+      "called",
+      "support",
+      "yesterday",
+      "agent",
+      "quite"
+    ],
+    "customer_name": "Anna Novak",
+    "word_count": 24,
+    "urgent": false,
+    "response": "Dear Anna Novak,\n\nThank you for contacting us about this issue. I completely understand your frustration and I sincerely apologize for any inconvenience you've experienced.\n\nI've immediately looked into this matter and here's what I've done to address your concerns:\n\n• Thoroughly investigated the issue you've described\n• Implemented corrective measures to resolve the problem\n• Added priority handling to your account for faster resolution\n• Applied a gesture of goodwill to your account as an apology\n\nYour satisfaction is extremely important to us, and we're committed to ensuring this doesn't happen again.\n\nPlease don't hesitate to contact me directly if you need any further assistance or if there's anything else I can do to improve your experience with us.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 10:07:03",
+    "email": "Hi,\n\nI called support yesterday and the agent was quite rude. I’m disappointed with the experience. Can someone look into this?\n\nSincerely,  \nAnna Novak\n",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "Complaint Resolution",
+    "specific_topic": "General Support",
+    "keywords": [
+      "called",
+      "support",
+      "yesterday",
+      "agent",
+      "quite"
+    ],
+    "customer_name": "Anna Novak",
+    "word_count": 24,
+    "urgent": false,
+    "response": "Dear Anna Novak,\n\nThank you for contacting us about this issue. I completely understand your frustration and I sincerely apologize for any inconvenience you've experienced.\n\nI've immediately looked into this matter and here's what I've done to address your concerns:\n\n• Thoroughly investigated the issue you've described\n• Implemented corrective measures to resolve the problem\n• Added priority handling to your account for faster resolution\n• Applied a gesture of goodwill to your account as an apology\n\nYour satisfaction is extremely important to us, and we're committed to ensuring this doesn't happen again.\n\nPlease don't hesitate to contact me directly if you need any further assistance or if there's anything else I can do to improve your experience with us.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 10:09:10",
+    "email": "Hi,\n\nI called support yesterday and the agent was quite rude. I’m disappointed with the experience. Can someone look into this?\n\nSincerely,  \nAnna Novak\n",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "Complaint Resolution",
+    "specific_topic": "General Support",
+    "keywords": [
+      "called",
+      "support",
+      "yesterday",
+      "agent",
+      "quite"
+    ],
+    "customer_name": "Anna Novak",
+    "word_count": 24,
+    "urgent": false,
+    "response": "Dear Anna Novak,\n\nThank you for contacting us about this issue. I completely understand your frustration and I sincerely apologize for any inconvenience you've experienced.\n\nI've immediately looked into this matter and here's what I've done to address your concerns:\n\n• Thoroughly investigated the issue you've described\n• Implemented corrective measures to resolve the problem\n• Added priority handling to your account for faster resolution\n• Applied a gesture of goodwill to your account as an apology\n\nYour satisfaction is extremely important to us, and we're committed to ensuring this doesn't happen again.\n\nPlease don't hesitate to contact me directly if you need any further assistance or if there's anything else I can do to improve your experience with us.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 10:09:47",
+    "email": "Hello,\n\nThe blender I received (order #345678) doesn’t turn on at all. It seems defective. Could you arrange a replacement or a refund?\n\nThank you,  \nEmily Davis\n\n",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "Refund Status Inquiry",
+    "specific_topic": "Product Issue",
+    "keywords": [
+      "blender",
+      "received",
+      "order",
+      "doesn",
+      "turn"
+    ],
+    "customer_name": "Emily Davis",
+    "word_count": 27,
+    "urgent": false,
+    "response": "Dear Emily Davis,\n\nThank you for following up on your refund for order #901234.\n\nI've checked our system and I'm happy to confirm that:\n\n• Your return was received and processed on June 15, 2025\n• The refund of the full purchase amount has been initiated\n• The funds should appear in your original payment method within 2-3 business days from today\n• You should receive a confirmation email shortly with the refund details\n\nPlease note that depending on your bank or credit card company, it may take an additional 1-2 business days for the refund to be reflected in your account.\n\nIf you don't see the refund by June 23, 2025, please let me know and I'll investigate further. Your refund reference number is #REF-901234-20250618.\n\nIs there anything else I can help you with today?\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 10:10:13",
+    "email": "Hello,\n\nI was billed €49.99 last week for my subscription, but my plan only costs €29.99. Could you please correct this and refund the extra €20?\n\nBest regards,  \nJohn Smith\n\n",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "billed",
+      "last",
+      "week",
+      "subscription",
+      "plan"
+    ],
+    "customer_name": "John Smith",
+    "word_count": 30,
+    "urgent": false,
+    "response": "Dear John Smith,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 10:10:54",
+    "email": "Hello,\n\nI just received my invoice for last month and I believe there is an error. I was charged twice for the same service (Subscription Premium – 19.99€). Could you please check and confirm?\n\nAlso, I would appreciate it if you could issue a refund if this was a mistake.\n\nThank you for your help,  \nAlex Martin",
+    "language": "English",
+    "sentiment": "Positive",
+    "sentiment_score": 0.3,
+    "email_type": "Refund Status Inquiry",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "received",
+      "invoice",
+      "last",
+      "month",
+      "believe"
+    ],
+    "customer_name": "Alex Martin",
+    "word_count": 57,
+    "urgent": false,
+    "response": "Dear Alex Martin,\n\nThank you for following up on your refund for order #901234.\n\nI've checked our system and I'm happy to confirm that:\n\n• Your return was received and processed on June 15, 2025\n• The refund of the full purchase amount has been initiated\n• The funds should appear in your original payment method within 2-3 business days from today\n• You should receive a confirmation email shortly with the refund details\n\nPlease note that depending on your bank or credit card company, it may take an additional 1-2 business days for the refund to be reflected in your account.\n\nIf you don't see the refund by June 23, 2025, please let me know and I'll investigate further. Your refund reference number is #REF-901234-20250618.\n\nIs there anything else I can help you with today?\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 10:22:16",
+    "email": "Dear Support Team,\n\nI noticed that I was charged twice for my Premium subscription last month. My credit card shows two charges of €19.99 each on March 15th, but I only have one active subscription. \n\nThis is really frustrating as I'm on a tight budget. Can you please refund the duplicate charge immediately?\n\nMy account email is john.doe@email.com and my subscription started in February.\n\nPlease resolve this ASAP.\n\nBest regards,\nJohn Doe",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "subscription",
+      "email",
+      "john",
+      "support",
+      "team"
+    ],
+    "customer_name": "John Doe",
+    "word_count": 72,
+    "urgent": true,
+    "response": "Dear John Doe,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 10:23:00",
+    "email": "Bonjour,\n\nJ'essaie d'accéder à votre politique de confidentialité depuis votre page FAQ, mais le lien ne fonctionne pas. Il me donne une erreur 404.\n\nC'est assez gênant car j'ai besoin de lire cette politique pour mon travail. Pouvez-vous corriger ce problème rapidement?\n\nMerci d'avance pour votre aide.\n\nCordialement,\nMarie Dubois",
+    "language": "French",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "Technical Support",
+    "specific_topic": "General Inquiry",
+    "keywords": [
+      "votre",
+      "politique",
+      "pour",
+      "bonjour",
+      "essaie"
+    ],
+    "customer_name": "Marie Dubois",
+    "word_count": 50,
+    "urgent": false,
+    "response": "Cher/Chère Marie Dubois,\n\nMerci de nous avoir signalé ce lien défectueux. Je vous prie de nous excuser pour la gêne occasionnée.\n\nJ'ai immédiatement transmis ce problème à notre équipe de développement web, et voici ce que nous faisons :\n\n• Le lien défectueux vers la Politique de confidentialité sur notre page FAQ a été identifié et enregistré\n• Notre équipe technique travaille à corriger ce lien en priorité absolue\n• Nous prévoyons de résoudre ce problème dans les prochaines 24 heures\n• Je m'assurerai personnellement que le lien fonctionne correctement\n\nEn attendant, vous pouvez accéder directement à notre Politique de confidentialité ici : [site web]/politique-de-confidentialite\n\nMerci de nous aider à améliorer notre site web. Les utilisateurs comme vous qui prennent le temps de signaler des problèmes nous aident à maintenir une meilleure expérience pour tous.\n\nSi vous remarquez d'autres problèmes ou avez des questions sur notre politique de confidentialité, n'hésitez pas à nous contacter.\n\nCordialement,\nService Client"
+  },
+  {
+    "timestamp": "2025-06-18 10:23:34",
+    "email": "Hi there,\n\nI returned my order about a week ago and I'm wondering about the status of my refund. The return tracking shows it was delivered to your warehouse 5 days ago, but I haven't received any confirmation that my refund has been processed.\n\nCan you please confirm if you received my return and when I can expect the refund to appear in my account?\n\nThe order number was #901234 and the return was for a defective laptop case.\n\nThanks!\nSarah Johnson",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "Refund Status Inquiry",
+    "specific_topic": "Delivery Problem",
+    "keywords": [
+      "refund",
+      "return",
+      "order",
+      "received",
+      "returned"
+    ],
+    "customer_name": "Sarah Johnson",
+    "word_count": 82,
+    "urgent": false,
+    "response": "Dear Sarah Johnson,\n\nThank you for following up on your refund for order #901234.\n\nI've checked our system and I'm happy to confirm that:\n\n• Your return was received and processed on June 15, 2025\n• The refund of the full purchase amount has been initiated\n• The funds should appear in your original payment method within 2-3 business days from today\n• You should receive a confirmation email shortly with the refund details\n\nPlease note that depending on your bank or credit card company, it may take an additional 1-2 business days for the refund to be reflected in your account.\n\nIf you don't see the refund by June 23, 2025, please let me know and I'll investigate further. Your refund reference number is #REF-901234-20250618.\n\nIs there anything else I can help you with today?\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 10:24:40",
+    "email": "Estimado equipo de soporte,\n\nRecibí mi pedido ayer y estoy muy decepcionado con la calidad del producto. El auricular que ordené llegó con el cable dañado y el sonido es terrible. Esto no es lo que esperaba basándose en las reseñas de su sitio web.\n\nEstoy muy frustrado porque necesitaba estos auriculares para el trabajo y ahora tengo que buscar una alternativa urgentemente.\n\n¿Pueden enviarme un reemplazo inmediatamente o procesar un reembolso completo?\n\nAtentamente,\nCarlos Rodriguez",
+    "language": "Spanish",
+    "sentiment": "Negative",
+    "sentiment_score": -0.3,
+    "email_type": "General Inquiry",
+    "specific_topic": "General Inquiry",
+    "keywords": [
+      "estoy",
+      "estimado",
+      "equipo",
+      "soporte",
+      "pedido"
+    ],
+    "customer_name": "Carlos Rodriguez",
+    "word_count": 76,
+    "urgent": true,
+    "response": "Estimado/a Carlos Rodriguez,\n\nGracias por contactarnos. He revisado cuidadosamente su mensaje sobre general inquiry.\n\nEstas son las acciones inmediatas que he tomado:\n\n• He revisado exhaustivamente su preocupación\n• He identificado el problema específico que está enfrentando\n• He implementado una solución para atender sus necesidades\n\nEsto es lo que sucederá a continuación:\n- Recibirá un correo de confirmación dentro de la próxima hora\n- Los cambios aplicables entrarán en vigor inmediatamente\n- Nuestro equipo monitoreará su solicitud para asegurar que todo funcione correctamente\n\nSi necesita aclaraciones o tiene preguntas adicionales, no dude en contactarnos. Su satisfacción es nuestra prioridad.\n\nAtentamente,\nServicio al Cliente"
+  },
+  {
+    "timestamp": "2025-06-18 10:25:31",
+    "email": "Hi Support,\n\nI'm having trouble accessing my account. I forgot my password and tried using the password reset feature, but I'm not receiving any reset emails. I've checked my spam folder multiple times.\n\nMy account email is techguru@email.com and I've been a customer for over 2 years. I really need to access my account today as I have an important project deadline.\n\nCan you please help me reset my password or send the reset email to an alternative address?\n\nThis is quite urgent.\n\nThanks,\nDavid Kim\n",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "Refund Status Inquiry",
+    "specific_topic": "Account Access",
+    "keywords": [
+      "reset",
+      "account",
+      "password",
+      "email",
+      "support"
+    ],
+    "customer_name": "David Kim",
+    "word_count": 86,
+    "urgent": true,
+    "response": "Dear David Kim,\n\nThank you for following up on your refund for order #901234.\n\nI've checked our system and I'm happy to confirm that:\n\n• Your return was received and processed on June 15, 2025\n• The refund of the full purchase amount has been initiated\n• The funds should appear in your original payment method within 2-3 business days from today\n• You should receive a confirmation email shortly with the refund details\n\nPlease note that depending on your bank or credit card company, it may take an additional 1-2 business days for the refund to be reflected in your account.\n\nIf you don't see the refund by June 23, 2025, please let me know and I'll investigate further. Your refund reference number is #REF-901234-20250618.\n\nIs there anything else I can help you with today?\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 10:25:34",
+    "email": "Hi Support,\n\nI'm having trouble accessing my account. I forgot my password and tried using the password reset feature, but I'm not receiving any reset emails. I've checked my spam folder multiple times.\n\nMy account email is techguru@email.com and I've been a customer for over 2 years. I really need to access my account today as I have an important project deadline.\n\nCan you please help me reset my password or send the reset email to an alternative address?\n\nThis is quite urgent.\n\nThanks,\nDavid Kim\n",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "Refund Status Inquiry",
+    "specific_topic": "Account Access",
+    "keywords": [
+      "reset",
+      "account",
+      "password",
+      "email",
+      "support"
+    ],
+    "customer_name": "David Kim",
+    "word_count": 86,
+    "urgent": true,
+    "response": "Dear David Kim,\n\nThank you for following up on your refund for order #901234.\n\nI've checked our system and I'm happy to confirm that:\n\n• Your return was received and processed on June 15, 2025\n• The refund of the full purchase amount has been initiated\n• The funds should appear in your original payment method within 2-3 business days from today\n• You should receive a confirmation email shortly with the refund details\n\nPlease note that depending on your bank or credit card company, it may take an additional 1-2 business days for the refund to be reflected in your account.\n\nIf you don't see the refund by June 23, 2025, please let me know and I'll investigate further. Your refund reference number is #REF-901234-20250618.\n\nIs there anything else I can help you with today?\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 10:26:18",
+    "email": "Sehr geehrtes Team,\n\nich nutze Ihre Software seit einem Jahr und bin sehr zufrieden damit. Allerdings würde ich gerne eine Funktion vorschlagen, die meiner Meinung nach sehr nützlich wäre.\n\nEs wäre toll, wenn Sie eine automatische Backup-Funktion für unsere Projekte hinzufügen könnten. Momentan muss ich alles manuell sichern, was zeitaufwändig ist.\n\nViele andere Nutzer in Ihrem Forum haben ähnliche Wünsche geäußert. Könnten Sie diese Funktion in einem zukünftigen Update berücksichtigen?\n\nVielen Dank für Ihre Zeit und die großartige Software.\n\nMit freundlichen Grüßen,\nHans Mueller",
+    "language": "German",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "General Inquiry",
+    "specific_topic": "General Inquiry",
+    "keywords": [
+      "sehr",
+      "funktion",
+      "ihre",
+      "software",
+      "einem"
+    ],
+    "customer_name": "Hans Mueller",
+    "word_count": 84,
+    "urgent": false,
+    "response": "Sehr geehrte/r Hans Mueller,\n\nVielen Dank für Ihre Nachricht. Ich habe Ihre Anfrage bezüglich general inquiry sorgfältig geprüft.\n\nFolgende Maßnahmen habe ich sofort ergriffen:\n\n• Ich habe Ihr Anliegen gründlich überprüft\n• Ich habe das spezifische Problem identifiziert\n• Ich habe eine Lösung implementiert, um Ihren Bedürfnissen gerecht zu werden\n\nSo geht es weiter:\n- Sie erhalten innerhalb der nächsten Stunde eine Bestätigungs-E-Mail\n- Alle relevanten Änderungen treten sofort in Kraft\n- Unser Team wird Ihre Anfrage überwachen, um sicherzustellen, dass alles reibungslos funktioniert\n\nWenn Sie weitere Fragen haben oder Klärungsbedarf besteht, zögern Sie bitte nicht, uns zu kontaktieren. Ihre Zufriedenheit ist unsere Priorität.\n\nMit freundlichen Grüßen,\nKundenservice"
+  },
+  {
+    "timestamp": "2025-06-18 10:29:24",
+    "email": "Dear Support Team,\n\nI am writing to express my extreme frustration and disappointment with multiple serious problems I'm experiencing with your service. This is absolutely unacceptable and needs immediate resolution.\n\nFirst, I was charged THREE times for my Premium subscription this month instead of once. My bank statement shows charges of €19.99 on March 1st, March 3rd, and March 5th. This billing error is causing me significant financial stress and I demand an immediate refund of €39.98.\n\nSecond, my order #567890 that I placed two weeks ago has completely disappeared from your system. When I try to track it, your website gives me a 404 error and says \"order not found.\" I paid €149.99 for express shipping and have received absolutely nothing. This is terrible customer service.\n\nThird, I can't even log into my account anymore because your password reset feature is completely broken. I've tried 15 times over the past three days and never receive the reset email. I've checked spam, tried different browsers, cleared cookies - nothing works. Your technical support is clearly not functioning.\n\nFinally, when I tried to call your customer service line, I was on hold for 2 hours and 23 minutes before being disconnected. This is disgraceful treatment of a loyal customer who has been with your company for over 3 years.\n\nI need ALL of these issues resolved immediately:\n1. Full refund of duplicate charges (€39.98)\n2. Immediate shipping of my missing order or full refund (€149.99)\n3. Manual password reset for my account\n4. Explanation of why your systems are so unreliable\n5. Compensation for the terrible experience\n\nIf these issues are not resolved within 24 hours, I will be filing complaints with the Better Business Bureau, posting negative reviews on all social media platforms, and considering legal action for the financial damages caused by your negligence.\n\nThis is my final attempt to resolve this through your company before taking external action.\n\nExtremely frustrated and disappointed,\nJennifer Martinez-Thompson\nPremium Customer since 2021\nAccount: jennifer.mt@business-email.com\nPhone: +1-555-0123",
+    "language": "English",
+    "sentiment": "Negative",
+    "sentiment_score": -1.0,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "customer",
+      "service",
+      "immediate",
+      "march",
+      "refund"
+    ],
+    "customer_name": "Jennifer Martinez-Thompson",
+    "word_count": 334,
+    "urgent": true,
+    "response": "Dear Jennifer Martinez-Thompson,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 10:31:51",
+    "email": "Dear Support Team,\n\nI am writing to express my extreme frustration and disappointment with multiple serious problems I'm experiencing with your service. This is absolutely unacceptable and needs immediate resolution.\n\nFirst, I was charged THREE times for my Premium subscription this month instead of once. My bank statement shows charges of €19.99 on March 1st, March 3rd, and March 5th. This billing error is causing me significant financial stress and I demand an immediate refund of €39.98.\n\nSecond, my order #567890 that I placed two weeks ago has completely disappeared from your system. When I try to track it, your website gives me a 404 error and says \"order not found.\" I paid €149.99 for express shipping and have received absolutely nothing. This is terrible customer service.\n\nThird, I can't even log into my account anymore because your password reset feature is completely broken. I've tried 15 times over the past three days and never receive the reset email. I've checked spam, tried different browsers, cleared cookies - nothing works. Your technical support is clearly not functioning.\n\nFinally, when I tried to call your customer service line, I was on hold for 2 hours and 23 minutes before being disconnected. This is disgraceful treatment of a loyal customer who has been with your company for over 3 years.\n\nI need ALL of these issues resolved immediately:\n1. Full refund of duplicate charges (€39.98)\n2. Immediate shipping of my missing order or full refund (€149.99)\n3. Manual password reset for my account\n4. Explanation of why your systems are so unreliable\n5. Compensation for the terrible experience\n\nIf these issues are not resolved within 24 hours, I will be filing complaints with the Better Business Bureau, posting negative reviews on all social media platforms, and considering legal action for the financial damages caused by your negligence.\n\nThis is my final attempt to resolve this through your company before taking external action.\n\nExtremely frustrated and disappointed,\nJennifer Martinez-Thompson\nPremium Customer since 2021\nAccount: jennifer.mt@business-email.com\nPhone: +1-555-0123",
+    "language": "English",
+    "sentiment": "Negative",
+    "sentiment_score": -1.0,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "customer",
+      "service",
+      "immediate",
+      "march",
+      "refund"
+    ],
+    "customer_name": "Jennifer Martinez-Thompson",
+    "word_count": 334,
+    "urgent": true,
+    "response": "Dear Jennifer Martinez-Thompson,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 10:32:19",
+    "email": "Subject: Interested in upgrading - Questions about enterprise features and API integration\n\nHello,\n\nI hope this message finds you well. I'm reaching out because I'm genuinely impressed with your platform and am considering upgrading our business account to explore more advanced capabilities.\n\nCurrently, we're using your Standard plan, and it has been working wonderfully for our team of 15 developers. The user interface is intuitive, the performance has been excellent, and we've had zero downtime issues over the past 8 months. Your customer support has also been very responsive whenever we've had questions.\n\nWe're now at a growth stage where we need more sophisticated features, and I'd love to learn more about your Enterprise offerings. Specifically, I'm interested in:\n\n1. API rate limits and webhook capabilities for our custom integrations\n2. Advanced analytics and reporting features for project management\n3. Single sign-on (SSO) integration with our existing Azure Active Directory\n4. White-label options for client-facing portals\n5. Dedicated account management and priority technical support\n6. Data export capabilities and backup automation\n7. Custom user roles and permission management\n\nI've reviewed your pricing page, but I'd appreciate more detailed information about implementation timelines and any potential migration assistance you provide. We're also curious about volume discounts since we're planning to add another 25 users over the next six months.\n\nWould it be possible to schedule a demo call next week? I'm available Tuesday through Thursday between 10 AM and 4 PM EST. Alternatively, if you have any detailed documentation or case studies from similar companies in the fintech sector, I'd be very interested in reviewing those.\n\nThank you for creating such a robust platform. We're excited about the possibility of deepening our partnership with your company.\n\nBest regards,\nThomas Anderson\nSenior Technology Director\nInnovateTech Solutions Inc.\nthomas.anderson@innovatetech.com\nDirect: (555) 987-6543",
+    "language": "English",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "email_type": "Technical Support",
+    "specific_topic": "Account Access",
+    "keywords": [
+      "interested",
+      "features",
+      "capabilities",
+      "management",
+      "upgrading"
+    ],
+    "customer_name": "InnovateTech Solutions Inc.",
+    "word_count": 299,
+    "urgent": false,
+    "response": "Dear InnovateTech Solutions Inc.,\n\nThank you for reporting this technical issue. I understand how frustrating this must be, and I'm here to help resolve it immediately.\n\nI've investigated the problem you're experiencing and here's what I've found and done:\n\n• Identified the root cause of the issue\n• Applied a fix to your account that should resolve the problem\n• Cleared your cache which may have been contributing to the error\n• Tested your account to ensure everything is working properly now\n\nPlease try the following:\n1. Log out of your account completely\n2. Clear your browser cache and cookies\n3. Log back in using your credentials\n\nThe issue should now be resolved. If you continue to experience problems, please reply with:\n- The device and browser you're using\n- Any error messages you see\n- The specific time the error occurs\n\nI'll monitor your account for the next 24 hours to ensure everything remains stable.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 10:32:56",
+    "email": "Subject: Return request for Order #334455 - Size exchange needed\n\nHi Support Team,\n\nI need to initiate a return for part of my recent order and would appreciate your assistance with the process.\n\nOrder Details:\n- Order Number: #334455\n- Order Date: March 10, 2024\n- Total Amount: €127.50\n- Items: 2x Wireless Bluetooth Headphones (Black), 1x Phone Case (Blue)\n\nI need to return one of the Bluetooth headphones because I ordered the wrong size. I selected \"Medium\" but actually need \"Large\" for a better fit. The headphones work perfectly and are in brand new condition - I only opened the package to try them on once.\n\nI'd like to exchange this item for the same model in Large size if it's available in stock. If the Large size isn't available, I'd prefer to return this item for a partial refund of €45.99 rather than wait for a restock.\n\nThe other headphones and phone case are perfect and I'm keeping those items.\n\nCould you please provide:\n1. A prepaid return shipping label\n2. Return packaging instructions\n3. Confirmation of whether Large size is currently in stock\n4. Expected timeline for the exchange or refund process\n5. Return merchandise authorization (RMA) number if required\n\nI can have the package ready to ship within 24 hours once I receive the return label. My shipping address is the same as the original order.\n\nPlease let me know if you need any additional information or photos of the item.\n\nThank you for your help.\n\nRebecca Chang\nOrder #334455\nrebecca.chang@email.com",
+    "language": "English",
+    "sentiment": "Positive",
+    "sentiment_score": 0.7,
+    "email_type": "Refund Status Inquiry",
+    "specific_topic": "Delivery Problem",
+    "keywords": [
+      "return",
+      "order",
+      "size",
+      "need",
+      "headphones"
+    ],
+    "customer_name": "Rebecca Chang",
+    "word_count": 255,
+    "urgent": false,
+    "response": "Dear Rebecca Chang,\n\nThank you for following up on your refund for order #901234.\n\nI've checked our system and I'm happy to confirm that:\n\n• Your return was received and processed on June 15, 2025\n• The refund of the full purchase amount has been initiated\n• The funds should appear in your original payment method within 2-3 business days from today\n• You should receive a confirmation email shortly with the refund details\n\nPlease note that depending on your bank or credit card company, it may take an additional 1-2 business days for the refund to be reflected in your account.\n\nIf you don't see the refund by June 23, 2025, please let me know and I'll investigate further. Your refund reference number is #REF-901234-20250618.\n\nIs there anything else I can help you with today?\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 11:24:59",
+    "email": "Subject: Partial return and exchange request - Order #778899\nHello Returns Department,\nI need to process a partial return for my recent order #778899 placed on March 20th. Out of the 4 items I ordered, I need to:\n\nReturn the blue jacket (€45.99) - wrong size, need Large instead of Medium\nReturn the running shoes (€79.99) - don't fit properly, want full refund\nKeep the t-shirt and water bottle - these are perfect\n\nCould you please send me return labels for the jacket and shoes? For the jacket, I'd like an exchange if Large is available, otherwise a refund. For the shoes, I just want a refund.\nTotal refund expected: €79.99 (shoes) + potential €45.99 (jacket if Large unavailable)\nPlease let me know the next steps.\nThank you,\nAshley Park",
+    "language": "English",
+    "sentiment": "Positive",
+    "sentiment_score": 0.5,
+    "email_type": "Return/Exchange",
+    "specific_topic": "Order Status",
+    "keywords": [
+      "return",
+      "jacket",
+      "shoes",
+      "refund",
+      "need"
+    ],
+    "customer_name": "Ashley Park",
+    "word_count": 130,
+    "urgent": false,
+    "response": "Dear Ashley Park,\n\nThank you for contacting us about your return for order #901234.\n\nI've located your return in our system and can provide you with the following update:\n\n• We received your returned item(s) on June 15, 2025\n• The return has been inspected and approved\n• Your refund is currently being processed\n• You should see the refund in your account within 3-5 business days\n\nThe refunded amount will be credited to your original payment method. You'll receive an email confirmation once the refund has been fully processed.\n\nFor your reference, your return tracking number is: RTN-901234-20250618\n\nIf you have any questions about your return or refund, please don't hesitate to ask.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 11:25:21",
+    "email": "Subject: Multiple billing discrepancies on my account\nDear Billing Department,\nI've discovered several concerning charges on my account that need immediate attention. First, I was charged €19.99 three times on March 15th instead of once. Second, there's an unexplained fee of €5.99 labeled \"service charge\" that I never authorized. Third, my annual discount seems to have disappeared without notice.\nThis is causing significant stress and I need these billing errors corrected immediately. I've been a loyal customer for 4 years and this is completely unacceptable.\nPlease provide a detailed explanation and full refund of incorrect charges totaling €45.97.\nFrustrated and disappointed,\nRobert Thompson",
+    "language": "English",
+    "sentiment": "Negative",
+    "sentiment_score": -0.8,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "billing",
+      "account",
+      "charges",
+      "need",
+      "subject"
+    ],
+    "customer_name": "Robert Thompson",
+    "word_count": 103,
+    "urgent": true,
+    "response": "Dear Robert Thompson,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 12:07:39",
+    "email": "Subject: Suggestion for mobile app improvement\nDear Development Team,\nFirst, I want to say how much I love your platform! The recent updates have made everything so much smoother and more intuitive. Your team is doing an excellent job.\nI have a suggestion that would make the mobile app even better: dark mode support. Many of your users work late hours and would greatly appreciate this feature. I've seen this requested frequently in your community forums.\nWould you consider adding this to your roadmap? It would be a fantastic addition to an already amazing product.\nBest regards,\nTech enthusiast,\nRyan Mitchell",
+    "language": "English",
+    "sentiment": "Positive",
+    "sentiment_score": 1.0,
+    "email_type": "Feedback Acknowledgment",
+    "specific_topic": "Delivery Problem",
+    "keywords": [
+      "suggestion",
+      "mobile",
+      "team",
+      "much",
+      "subject"
+    ],
+    "customer_name": "Ryan Mitchell",
+    "word_count": 101,
+    "urgent": false,
+    "response": "Dear Ryan Mitchell,\n\nThank you for contacting us. I've carefully reviewed your message and I'm here to assist you.\n\nBased on your email about delivery problem, I've taken the following immediate actions:\n\n• Thoroughly reviewed your concern\n• Identified the specific issue you're facing\n• Implemented a solution to address your needs\n\nHere's what happens next:\n- You'll receive a confirmation email within the next hour\n- Any applicable changes will take effect immediately\n- Our team will monitor your request to ensure everything works smoothly\n\nIf you need any clarification or have additional questions, please don't hesitate to reach out. Your satisfaction is our priority.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 12:07:48",
+    "email": "Subject: Partial return and exchange request - Order #778899\nHello Returns Department,\nI need to process a partial return for my recent order #778899 placed on March 20th. Out of the 4 items I ordered, I need to:\n\nReturn the blue jacket (€45.99) - wrong size, need Large instead of Medium\nReturn the running shoes (€79.99) - don't fit properly, want full refund\nKeep the t-shirt and water bottle - these are perfect\n\nCould you please send me return labels for the jacket and shoes? For the jacket, I'd like an exchange if Large is available, otherwise a refund. For the shoes, I just want a refund.\nTotal refund expected: €79.99 (shoes) + potential €45.99 (jacket if Large unavailable)\nPlease let me know the next steps.\nThank you,\nAshley Park",
+    "language": "English",
+    "sentiment": "Positive",
+    "sentiment_score": 0.5,
+    "email_type": "Return/Exchange",
+    "specific_topic": "Order Status",
+    "keywords": [
+      "return",
+      "jacket",
+      "shoes",
+      "refund",
+      "need"
+    ],
+    "customer_name": "Ashley Park",
+    "word_count": 130,
+    "urgent": false,
+    "response": "Dear Ashley Park,\n\nThank you for contacting us about your return for order #901234.\n\nI've located your return in our system and can provide you with the following update:\n\n• We received your returned item(s) on June 15, 2025\n• The return has been inspected and approved\n• Your refund is currently being processed\n• You should see the refund in your account within 3-5 business days\n\nThe refunded amount will be credited to your original payment method. You'll receive an email confirmation once the refund has been fully processed.\n\nFor your reference, your return tracking number is: RTN-901234-20250618\n\nIf you have any questions about your return or refund, please don't hesitate to ask.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 12:08:13",
+    "email": "Subject: Multiple billing discrepancies on my account\nDear Billing Department,\nI've discovered several concerning charges on my account that need immediate attention. First, I was charged €19.99 three times on March 15th instead of once. Second, there's an unexplained fee of €5.99 labeled \"service charge\" that I never authorized. Third, my annual discount seems to have disappeared without notice.\nThis is causing significant stress and I need these billing errors corrected immediately. I've been a loyal customer for 4 years and this is completely unacceptable.\nPlease provide a detailed explanation and full refund of incorrect charges totaling €45.97.\nFrustrated and disappointed,\nRobert Thompson",
+    "language": "English",
+    "sentiment": "Negative",
+    "sentiment_score": -0.8,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "billing",
+      "account",
+      "charges",
+      "need",
+      "subject"
+    ],
+    "customer_name": "Robert Thompson",
+    "word_count": 103,
+    "urgent": true,
+    "response": "Dear Robert Thompson,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 12:08:13",
+    "email": "Subject: Multiple billing discrepancies on my account\nDear Billing Department,\nI've discovered several concerning charges on my account that need immediate attention. First, I was charged €19.99 three times on March 15th instead of once. Second, there's an unexplained fee of €5.99 labeled \"service charge\" that I never authorized. Third, my annual discount seems to have disappeared without notice.\nThis is causing significant stress and I need these billing errors corrected immediately. I've been a loyal customer for 4 years and this is completely unacceptable.\nPlease provide a detailed explanation and full refund of incorrect charges totaling €45.97.\nFrustrated and disappointed,\nRobert Thompson",
+    "language": "English",
+    "sentiment": "Negative",
+    "sentiment_score": -0.8,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "billing",
+      "account",
+      "charges",
+      "need",
+      "subject"
+    ],
+    "customer_name": "Robert Thompson",
+    "word_count": 103,
+    "urgent": true,
+    "response": "Dear Robert Thompson,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 12:08:14",
+    "email": "Subject: Multiple billing discrepancies on my account\nDear Billing Department,\nI've discovered several concerning charges on my account that need immediate attention. First, I was charged €19.99 three times on March 15th instead of once. Second, there's an unexplained fee of €5.99 labeled \"service charge\" that I never authorized. Third, my annual discount seems to have disappeared without notice.\nThis is causing significant stress and I need these billing errors corrected immediately. I've been a loyal customer for 4 years and this is completely unacceptable.\nPlease provide a detailed explanation and full refund of incorrect charges totaling €45.97.\nFrustrated and disappointed,\nRobert Thompson",
+    "language": "English",
+    "sentiment": "Negative",
+    "sentiment_score": -0.8,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "billing",
+      "account",
+      "charges",
+      "need",
+      "subject"
+    ],
+    "customer_name": "Robert Thompson",
+    "word_count": 103,
+    "urgent": true,
+    "response": "Dear Robert Thompson,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 12:08:14",
+    "email": "Subject: Multiple billing discrepancies on my account\nDear Billing Department,\nI've discovered several concerning charges on my account that need immediate attention. First, I was charged €19.99 three times on March 15th instead of once. Second, there's an unexplained fee of €5.99 labeled \"service charge\" that I never authorized. Third, my annual discount seems to have disappeared without notice.\nThis is causing significant stress and I need these billing errors corrected immediately. I've been a loyal customer for 4 years and this is completely unacceptable.\nPlease provide a detailed explanation and full refund of incorrect charges totaling €45.97.\nFrustrated and disappointed,\nRobert Thompson",
+    "language": "English",
+    "sentiment": "Negative",
+    "sentiment_score": -0.8,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "billing",
+      "account",
+      "charges",
+      "need",
+      "subject"
+    ],
+    "customer_name": "Robert Thompson",
+    "word_count": 103,
+    "urgent": true,
+    "response": "Dear Robert Thompson,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 12:08:15",
+    "email": "Subject: Multiple billing discrepancies on my account\nDear Billing Department,\nI've discovered several concerning charges on my account that need immediate attention. First, I was charged €19.99 three times on March 15th instead of once. Second, there's an unexplained fee of €5.99 labeled \"service charge\" that I never authorized. Third, my annual discount seems to have disappeared without notice.\nThis is causing significant stress and I need these billing errors corrected immediately. I've been a loyal customer for 4 years and this is completely unacceptable.\nPlease provide a detailed explanation and full refund of incorrect charges totaling €45.97.\nFrustrated and disappointed,\nRobert Thompson",
+    "language": "English",
+    "sentiment": "Negative",
+    "sentiment_score": -0.8,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "billing",
+      "account",
+      "charges",
+      "need",
+      "subject"
+    ],
+    "customer_name": "Robert Thompson",
+    "word_count": 103,
+    "urgent": true,
+    "response": "Dear Robert Thompson,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 12:08:15",
+    "email": "Subject: Multiple billing discrepancies on my account\nDear Billing Department,\nI've discovered several concerning charges on my account that need immediate attention. First, I was charged €19.99 three times on March 15th instead of once. Second, there's an unexplained fee of €5.99 labeled \"service charge\" that I never authorized. Third, my annual discount seems to have disappeared without notice.\nThis is causing significant stress and I need these billing errors corrected immediately. I've been a loyal customer for 4 years and this is completely unacceptable.\nPlease provide a detailed explanation and full refund of incorrect charges totaling €45.97.\nFrustrated and disappointed,\nRobert Thompson",
+    "language": "English",
+    "sentiment": "Negative",
+    "sentiment_score": -0.8,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "billing",
+      "account",
+      "charges",
+      "need",
+      "subject"
+    ],
+    "customer_name": "Robert Thompson",
+    "word_count": 103,
+    "urgent": true,
+    "response": "Dear Robert Thompson,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 12:08:15",
+    "email": "Subject: Multiple billing discrepancies on my account\nDear Billing Department,\nI've discovered several concerning charges on my account that need immediate attention. First, I was charged €19.99 three times on March 15th instead of once. Second, there's an unexplained fee of €5.99 labeled \"service charge\" that I never authorized. Third, my annual discount seems to have disappeared without notice.\nThis is causing significant stress and I need these billing errors corrected immediately. I've been a loyal customer for 4 years and this is completely unacceptable.\nPlease provide a detailed explanation and full refund of incorrect charges totaling €45.97.\nFrustrated and disappointed,\nRobert Thompson",
+    "language": "English",
+    "sentiment": "Negative",
+    "sentiment_score": -0.8,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "billing",
+      "account",
+      "charges",
+      "need",
+      "subject"
+    ],
+    "customer_name": "Robert Thompson",
+    "word_count": 103,
+    "urgent": true,
+    "response": "Dear Robert Thompson,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 12:08:16",
+    "email": "Subject: Multiple billing discrepancies on my account\nDear Billing Department,\nI've discovered several concerning charges on my account that need immediate attention. First, I was charged €19.99 three times on March 15th instead of once. Second, there's an unexplained fee of €5.99 labeled \"service charge\" that I never authorized. Third, my annual discount seems to have disappeared without notice.\nThis is causing significant stress and I need these billing errors corrected immediately. I've been a loyal customer for 4 years and this is completely unacceptable.\nPlease provide a detailed explanation and full refund of incorrect charges totaling €45.97.\nFrustrated and disappointed,\nRobert Thompson",
+    "language": "English",
+    "sentiment": "Negative",
+    "sentiment_score": -0.8,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "billing",
+      "account",
+      "charges",
+      "need",
+      "subject"
+    ],
+    "customer_name": "Robert Thompson",
+    "word_count": 103,
+    "urgent": true,
+    "response": "Dear Robert Thompson,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 12:08:17",
+    "email": "Subject: Multiple billing discrepancies on my account\nDear Billing Department,\nI've discovered several concerning charges on my account that need immediate attention. First, I was charged €19.99 three times on March 15th instead of once. Second, there's an unexplained fee of €5.99 labeled \"service charge\" that I never authorized. Third, my annual discount seems to have disappeared without notice.\nThis is causing significant stress and I need these billing errors corrected immediately. I've been a loyal customer for 4 years and this is completely unacceptable.\nPlease provide a detailed explanation and full refund of incorrect charges totaling €45.97.\nFrustrated and disappointed,\nRobert Thompson",
+    "language": "English",
+    "sentiment": "Negative",
+    "sentiment_score": -0.8,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "billing",
+      "account",
+      "charges",
+      "need",
+      "subject"
+    ],
+    "customer_name": "Robert Thompson",
+    "word_count": 103,
+    "urgent": true,
+    "response": "Dear Robert Thompson,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 12:08:17",
+    "email": "Subject: Multiple billing discrepancies on my account\nDear Billing Department,\nI've discovered several concerning charges on my account that need immediate attention. First, I was charged €19.99 three times on March 15th instead of once. Second, there's an unexplained fee of €5.99 labeled \"service charge\" that I never authorized. Third, my annual discount seems to have disappeared without notice.\nThis is causing significant stress and I need these billing errors corrected immediately. I've been a loyal customer for 4 years and this is completely unacceptable.\nPlease provide a detailed explanation and full refund of incorrect charges totaling €45.97.\nFrustrated and disappointed,\nRobert Thompson",
+    "language": "English",
+    "sentiment": "Negative",
+    "sentiment_score": -0.8,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "billing",
+      "account",
+      "charges",
+      "need",
+      "subject"
+    ],
+    "customer_name": "Robert Thompson",
+    "word_count": 103,
+    "urgent": true,
+    "response": "Dear Robert Thompson,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 12:08:17",
+    "email": "Subject: Multiple billing discrepancies on my account\nDear Billing Department,\nI've discovered several concerning charges on my account that need immediate attention. First, I was charged €19.99 three times on March 15th instead of once. Second, there's an unexplained fee of €5.99 labeled \"service charge\" that I never authorized. Third, my annual discount seems to have disappeared without notice.\nThis is causing significant stress and I need these billing errors corrected immediately. I've been a loyal customer for 4 years and this is completely unacceptable.\nPlease provide a detailed explanation and full refund of incorrect charges totaling €45.97.\nFrustrated and disappointed,\nRobert Thompson",
+    "language": "English",
+    "sentiment": "Negative",
+    "sentiment_score": -0.8,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "billing",
+      "account",
+      "charges",
+      "need",
+      "subject"
+    ],
+    "customer_name": "Robert Thompson",
+    "word_count": 103,
+    "urgent": true,
+    "response": "Dear Robert Thompson,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 12:08:17",
+    "email": "Subject: Multiple billing discrepancies on my account\nDear Billing Department,\nI've discovered several concerning charges on my account that need immediate attention. First, I was charged €19.99 three times on March 15th instead of once. Second, there's an unexplained fee of €5.99 labeled \"service charge\" that I never authorized. Third, my annual discount seems to have disappeared without notice.\nThis is causing significant stress and I need these billing errors corrected immediately. I've been a loyal customer for 4 years and this is completely unacceptable.\nPlease provide a detailed explanation and full refund of incorrect charges totaling €45.97.\nFrustrated and disappointed,\nRobert Thompson",
+    "language": "English",
+    "sentiment": "Negative",
+    "sentiment_score": -0.8,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "billing",
+      "account",
+      "charges",
+      "need",
+      "subject"
+    ],
+    "customer_name": "Robert Thompson",
+    "word_count": 103,
+    "urgent": true,
+    "response": "Dear Robert Thompson,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 12:08:18",
+    "email": "Subject: Multiple billing discrepancies on my account\nDear Billing Department,\nI've discovered several concerning charges on my account that need immediate attention. First, I was charged €19.99 three times on March 15th instead of once. Second, there's an unexplained fee of €5.99 labeled \"service charge\" that I never authorized. Third, my annual discount seems to have disappeared without notice.\nThis is causing significant stress and I need these billing errors corrected immediately. I've been a loyal customer for 4 years and this is completely unacceptable.\nPlease provide a detailed explanation and full refund of incorrect charges totaling €45.97.\nFrustrated and disappointed,\nRobert Thompson",
+    "language": "English",
+    "sentiment": "Negative",
+    "sentiment_score": -0.8,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "billing",
+      "account",
+      "charges",
+      "need",
+      "subject"
+    ],
+    "customer_name": "Robert Thompson",
+    "word_count": 103,
+    "urgent": true,
+    "response": "Dear Robert Thompson,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 12:08:18",
+    "email": "Subject: Multiple billing discrepancies on my account\nDear Billing Department,\nI've discovered several concerning charges on my account that need immediate attention. First, I was charged €19.99 three times on March 15th instead of once. Second, there's an unexplained fee of €5.99 labeled \"service charge\" that I never authorized. Third, my annual discount seems to have disappeared without notice.\nThis is causing significant stress and I need these billing errors corrected immediately. I've been a loyal customer for 4 years and this is completely unacceptable.\nPlease provide a detailed explanation and full refund of incorrect charges totaling €45.97.\nFrustrated and disappointed,\nRobert Thompson",
+    "language": "English",
+    "sentiment": "Negative",
+    "sentiment_score": -0.8,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "billing",
+      "account",
+      "charges",
+      "need",
+      "subject"
+    ],
+    "customer_name": "Robert Thompson",
+    "word_count": 103,
+    "urgent": true,
+    "response": "Dear Robert Thompson,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 12:08:18",
+    "email": "Subject: Multiple billing discrepancies on my account\nDear Billing Department,\nI've discovered several concerning charges on my account that need immediate attention. First, I was charged €19.99 three times on March 15th instead of once. Second, there's an unexplained fee of €5.99 labeled \"service charge\" that I never authorized. Third, my annual discount seems to have disappeared without notice.\nThis is causing significant stress and I need these billing errors corrected immediately. I've been a loyal customer for 4 years and this is completely unacceptable.\nPlease provide a detailed explanation and full refund of incorrect charges totaling €45.97.\nFrustrated and disappointed,\nRobert Thompson",
+    "language": "English",
+    "sentiment": "Negative",
+    "sentiment_score": -0.8,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "billing",
+      "account",
+      "charges",
+      "need",
+      "subject"
+    ],
+    "customer_name": "Robert Thompson",
+    "word_count": 103,
+    "urgent": true,
+    "response": "Dear Robert Thompson,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 12:08:42",
+    "email": "Subject: Multiple billing discrepancies on my account\nDear Billing Department,\nI've discovered several concerning charges on my account that need immediate attention. First, I was charged €19.99 three times on March 15th instead of once. Second, there's an unexplained fee of €5.99 labeled \"service charge\" that I never authorized. Third, my annual discount seems to have disappeared without notice.\nThis is causing significant stress and I need these billing errors corrected immediately. I've been a loyal customer for 4 years and this is completely unacceptable.\nPlease provide a detailed explanation and full refund of incorrect charges totaling €45.97.\nFrustrated and disappointed,\nRobert Thompson",
+    "language": "English",
+    "sentiment": "Negative",
+    "sentiment_score": -0.8,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "billing",
+      "account",
+      "charges",
+      "need",
+      "subject"
+    ],
+    "customer_name": "Robert Thompson",
+    "word_count": 103,
+    "urgent": true,
+    "response": "Dear Robert Thompson,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 12:09:31",
+    "email": "Subject: Request to cancel my Premium subscription\nHello,\nI would like to cancel my Premium subscription effective immediately. I'm no longer using the advanced features and want to downgrade to the free plan.\nPlease confirm the cancellation and let me know if there are any steps I need to complete. Also, please confirm that I won't be charged for next month's subscription.\nMy account email is: jennifer.davis@email.com\nThank you,\nJennifer Davis",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "Billing Issue",
+    "specific_topic": "Billing Question",
+    "keywords": [
+      "subscription",
+      "cancel",
+      "premium",
+      "confirm",
+      "email"
+    ],
+    "customer_name": "Jennifer Davis",
+    "word_count": 71,
+    "urgent": true,
+    "response": "Dear Jennifer Davis,\n\nThank you for contacting us about your billing concern. I understand how important it is to have accurate billing, and I'm here to help.\n\nI've reviewed your account and here's what I found:\n\n• Your current billing cycle: Monthly\n• Last payment: €19.99 on June 03, 2025\n• Next billing date: July 03, 2025\n• Payment method on file: ****1234\n\nIf you're seeing any discrepancies or unexpected charges, please let me know the specific details, and I'll investigate immediately. I can also:\n- Send you a detailed invoice history\n- Update your payment information\n- Adjust your billing cycle if needed\n- Apply any applicable credits or adjustments\n\nYour account reference number is: ACC-20250618-001\n\nPlease let me know how I can assist you further with your billing inquiry.\n\nBest regards,\nCustomer Service Team"
+  },
+  {
+    "timestamp": "2025-06-18 12:22:45",
+    "email": "Objet: Statut de mon remboursement - Commande #567890\nBonjour,\nIl y a une semaine, j'ai retourné ma commande #567890 et j'aimerais connaître le statut de mon remboursement. Le suivi indique que le colis a été livré à votre entrepôt il y a 5 jours.\nPouvez-vous confirmer que vous avez reçu mon retour et me dire quand je peux m'attendre à recevoir le remboursement de 67,50€?\nMerci d'avance,\nSophie Martin",
+    "language": "French",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "Refund Status Inquiry",
+    "specific_topic": "General Inquiry",
+    "keywords": [
+      "remboursement",
+      "statut",
+      "commande",
+      "vous",
+      "objet"
+    ],
+    "customer_name": "Valued Customer",
+    "word_count": 69,
+    "urgent": false,
+    "response": "Cher/Chère Valued Customer,\n\nMerci de nous avoir contactés. J'ai soigneusement examiné votre message concernant general inquiry.\n\nVoici les actions que j'ai entreprises immédiatement :\n\n• J'ai examiné en détail votre préoccupation\n• J'ai identifié le problème spécifique que vous rencontrez\n• J'ai mis en place une solution pour répondre à vos besoins\n\nVoici la suite du processus :\n- Vous recevrez un email de confirmation dans l'heure qui suit\n- Les modifications applicables prendront effet immédiatement\n- Notre équipe surveillera votre demande pour s'assurer que tout fonctionne correctement\n\nSi vous avez besoin de clarifications ou avez des questions supplémentaires, n'hésitez pas à nous contacter. Votre satisfaction est notre priorité.\n\nCordialement,\nService Client"
+  },
+  {
+    "timestamp": "2025-06-18 12:22:52",
+    "email": "Objet: Statut de mon remboursement - Commande #567890\nBonjour,\nIl y a une semaine, j'ai retourné ma commande #567890 et j'aimerais connaître le statut de mon remboursement. Le suivi indique que le colis a été livré à votre entrepôt il y a 5 jours.\nPouvez-vous confirmer que vous avez reçu mon retour et me dire quand je peux m'attendre à recevoir le remboursement de 67,50€?\nMerci d'avance,\nSophie Martin",
+    "language": "French",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "Refund Status Inquiry",
+    "specific_topic": "General Inquiry",
+    "keywords": [
+      "remboursement",
+      "statut",
+      "commande",
+      "vous",
+      "objet"
+    ],
+    "customer_name": "Valued Customer",
+    "word_count": 69,
+    "urgent": false,
+    "response": "Cher/Chère Valued Customer,\n\nMerci de nous avoir contactés. J'ai soigneusement examiné votre message concernant general inquiry.\n\nVoici les actions que j'ai entreprises immédiatement :\n\n• J'ai examiné en détail votre préoccupation\n• J'ai identifié le problème spécifique que vous rencontrez\n• J'ai mis en place une solution pour répondre à vos besoins\n\nVoici la suite du processus :\n- Vous recevrez un email de confirmation dans l'heure qui suit\n- Les modifications applicables prendront effet immédiatement\n- Notre équipe surveillera votre demande pour s'assurer que tout fonctionne correctement\n\nSi vous avez besoin de clarifications ou avez des questions supplémentaires, n'hésitez pas à nous contacter. Votre satisfaction est notre priorité.\n\nCordialement,\nService Client"
+  },
+  {
+    "timestamp": "2025-06-18 12:22:58",
+    "email": "Objet: Statut de mon remboursement - Commande #567890\nBonjour,\nIl y a une semaine, j'ai retourné ma commande #567890 et j'aimerais connaître le statut de mon remboursement. Le suivi indique que le colis a été livré à votre entrepôt il y a 5 jours.\nPouvez-vous confirmer que vous avez reçu mon retour et me dire quand je peux m'attendre à recevoir le remboursement de 67,50€?\n\nMerci d'avance,\nSophie Martin",
+    "language": "French",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "Refund Status Inquiry",
+    "specific_topic": "General Inquiry",
+    "keywords": [
+      "remboursement",
+      "statut",
+      "commande",
+      "vous",
+      "objet"
+    ],
+    "customer_name": "Valued Customer",
+    "word_count": 69,
+    "urgent": false,
+    "response": "Cher/Chère Valued Customer,\n\nMerci de nous avoir contactés. J'ai soigneusement examiné votre message concernant general inquiry.\n\nVoici les actions que j'ai entreprises immédiatement :\n\n• J'ai examiné en détail votre préoccupation\n• J'ai identifié le problème spécifique que vous rencontrez\n• J'ai mis en place une solution pour répondre à vos besoins\n\nVoici la suite du processus :\n- Vous recevrez un email de confirmation dans l'heure qui suit\n- Les modifications applicables prendront effet immédiatement\n- Notre équipe surveillera votre demande pour s'assurer que tout fonctionne correctement\n\nSi vous avez besoin de clarifications ou avez des questions supplémentaires, n'hésitez pas à nous contacter. Votre satisfaction est notre priorité.\n\nCordialement,\nService Client"
+  },
+  {
+    "timestamp": "2025-06-18 12:23:09",
+    "email": "Objet: Statut de mon remboursement - Commande #567890\nBonjour,\nIl y a une semaine, j'ai retourné ma commande #567890 et j'aimerais connaître le statut de mon remboursement. Le suivi indique que le colis a été livré à votre entrepôt il y a 5 jours.\nPouvez-vous confirmer que vous avez reçu mon retour et me dire quand je peux m'attendre à recevoir le remboursement de 67,50€?\n\nMerci d'avance,\n\nSophie Martin",
+    "language": "French",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "Refund Status Inquiry",
+    "specific_topic": "General Inquiry",
+    "keywords": [
+      "remboursement",
+      "statut",
+      "commande",
+      "vous",
+      "objet"
+    ],
+    "customer_name": "Valued Customer",
+    "word_count": 69,
+    "urgent": false,
+    "response": "Cher/Chère Valued Customer,\n\nMerci de nous avoir contactés. J'ai soigneusement examiné votre message concernant general inquiry.\n\nVoici les actions que j'ai entreprises immédiatement :\n\n• J'ai examiné en détail votre préoccupation\n• J'ai identifié le problème spécifique que vous rencontrez\n• J'ai mis en place une solution pour répondre à vos besoins\n\nVoici la suite du processus :\n- Vous recevrez un email de confirmation dans l'heure qui suit\n- Les modifications applicables prendront effet immédiatement\n- Notre équipe surveillera votre demande pour s'assurer que tout fonctionne correctement\n\nSi vous avez besoin de clarifications ou avez des questions supplémentaires, n'hésitez pas à nous contacter. Votre satisfaction est notre priorité.\n\nCordialement,\nService Client"
+  },
+  {
+    "timestamp": "2025-06-18 12:23:21",
+    "email": "URGENT: Suspicious activity on my account\nDear Security Team,\nI just noticed several login attempts from unknown IP addresses on my account dashboard. I also received emails about password change requests that I didn't initiate.\nI'm very concerned about the security of my account and personal data. Please investigate this immediately and secure my account.\nI've changed my password but I'm worried my information may have been compromised. What other steps should I take?\nThis is extremely urgent - please respond ASAP.\nConcerned user,\nRachel Green",
+    "language": "English",
+    "sentiment": "Neutral",
+    "sentiment_score": 0.0,
+    "email_type": "Product/Service Inquiry",
+    "specific_topic": "Account Access",
+    "keywords": [
+      "account",
+      "urgent",
+      "security",
+      "password",
+      "concerned"
+    ],
+    "customer_name": "Rachel Green",
+    "word_count": 86,
+    "urgent": true,
+    "response": "Dear Rachel Green,\n\nThank you for your interest! I'm happy to provide you with the information you're looking for.\n\nBased on your inquiry, here are the details:\n\n• Our Premium Subscription includes unlimited access to all features\n• Monthly cost is €19.99 with no hidden fees\n• You can cancel anytime without penalty\n• New subscribers get a 7-day free trial\n\nAdditional benefits include:\n- Priority customer support\n- Early access to new features\n- Exclusive monthly webinars\n- 20% discount on partner services\n\nWould you like me to set up a free trial for you? I can have your account ready within minutes, and you won't be charged anything for the first week.\n\nIf you have any specific questions about features or pricing, I'm here to help!\n\nBest regards,\nCustomer Service Team"
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "services": {
+    "email_assistant": {
+      "name": "Email Assistant",
+      "path": ".",
+      "command": "python -m streamlit run email_assistant.py",
+      "port": 8501,
+      "url": "http://localhost:8501",
+      "icon": "📧",
+      "description": "AI-powered email response system with multi-language support"
+    },
+    "call_metrics_api": {
+      "name": "Call Metrics API",
+      "path": "../Call-Metrics-Dashboard",
+      "command": "python main.py",
+      "port": 8000,
+      "url": "http://localhost:8000",
+      "icon": "🔌",
+      "description": "Backend API for call center metrics"
+    },
+    "call_metrics_dashboard": {
+      "name": "Call Metrics Dashboard",
+      "path": "../Call-Metrics-Dashboard",
+      "command": "python -m streamlit run dashboard.py --server.port 8502",
+      "port": 8502,
+      "url": "http://localhost:8502",
+      "icon": "📞",
+      "description": "Real-time call center analytics dashboard",
+      "depends_on": ["call_metrics_api"]
+    },
+    "crm_integration": {
+      "name": "CRM Integration",
+      "path": "../crm-integration-prototype",
+      "command": "npm start",
+      "port": 3000,
+      "url": "http://localhost:3000",
+      "icon": "👥",
+      "description": "HubSpot CRM integration prototype",
+      "setup_command": "npm install"
+    }
+  },
+  "platform": {
+    "name": "Akio Unified Call Center Platform",
+    "version": "1.0.0",
+    "author": "Akio Intern",
+    "auto_refresh_interval": 5,
+    "theme": "light"
+  },
+  "startup": {
+    "auto_start_services": [],
+    "start_delay_seconds": 2,
+    "health_check_retries": 3
+  }
+}

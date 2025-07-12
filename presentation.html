@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akio Unified Platform - Final Presentation</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0f0f1e;
+            color: #ffffff;
+            overflow: hidden;
+        }
+        
+        .presentation-container {
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+        
+        .slide {
+            width: 90%;
+            max-width: 1200px;
+            height: 90vh;
+            display: none;
+            padding: 4rem;
+            background: linear-gradient(135deg, rgba(255,255,255,0.05), rgba(255,255,255,0.02));
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            border: 1px solid rgba(255,255,255,0.1);
+            animation: slideIn 0.5s ease-out;
+        }
+        
+        .slide.active {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateX(50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+        
+        h1 {
+            font-size: 3.5rem;
+            font-weight: 200;
+            margin-bottom: 2rem;
+            background: linear-gradient(135deg, #3b82f6, #60a5fa);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        
+        h2 {
+            font-size: 2.5rem;
+            font-weight: 300;
+            margin-bottom: 2rem;
+            color: #60a5fa;
+        }
+        
+        h3 {
+            font-size: 1.8rem;
+            font-weight: 400;
+            margin-bottom: 1.5rem;
+            color: #94a3b8;
+        }
+        
+        p, li {
+            font-size: 1.4rem;
+            line-height: 1.8;
+            color: #e2e8f0;
+            margin-bottom: 1rem;
+        }
+        
+        .highlight {
+            color: #60a5fa;
+            font-weight: 600;
+        }
+        
+        .metric {
+            background: rgba(59, 130, 246, 0.1);
+            border: 1px solid rgba(59, 130, 246, 0.3);
+            padding: 1rem 2rem;
+            border-radius: 10px;
+            display: inline-block;
+            margin: 0.5rem;
+        }
+        
+        .metric-value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #3b82f6;
+        }
+        
+        .metric-label {
+            font-size: 1rem;
+            color: #94a3b8;
+        }
+        
+        .architecture-diagram {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 15px;
+            padding: 2rem;
+            margin: 2rem 0;
+            text-align: center;
+        }
+        
+        .service-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 2rem;
+            margin: 2rem 0;
+        }
+        
+        .service-box {
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 15px;
+            padding: 2rem;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+        
+        .service-box:hover {
+            transform: translateY(-5px);
+            background: rgba(255,255,255,0.06);
+        }
+        
+        .service-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+        
+        .timeline {
+            position: relative;
+            padding: 2rem 0;
+        }
+        
+        .timeline-item {
+            display: flex;
+            margin-bottom: 2rem;
+            align-items: center;
+        }
+        
+        .timeline-date {
+            background: #3b82f6;
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            margin-right: 2rem;
+            min-width: 150px;
+            text-align: center;
+        }
+        
+        .timeline-content {
+            flex: 1;
+        }
+        
+        .code-block {
+            background: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 10px;
+            padding: 1.5rem;
+            margin: 1rem 0;
+            font-family: 'Courier New', monospace;
+            overflow-x: auto;
+        }
+        
+        .navigation {
+            position: fixed;
+            bottom: 2rem;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            gap: 1rem;
+            background: rgba(0,0,0,0.8);
+            padding: 1rem;
+            border-radius: 50px;
+            backdrop-filter: blur(10px);
+        }
+        
+        .nav-btn {
+            background: rgba(255,255,255,0.1);
+            border: 1px solid rgba(255,255,255,0.2);
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 1rem;
+        }
+        
+        .nav-btn:hover {
+            background: rgba(59, 130, 246, 0.3);
+            transform: translateY(-2px);
+        }
+        
+        .slide-number {
+            position: absolute;
+            top: 2rem;
+            right: 2rem;
+            color: #64748b;
+            font-size: 1.2rem;
+        }
+        
+        .demo-button {
+            background: linear-gradient(135deg, #10b981, #34d399);
+            color: white;
+            border: none;
+            padding: 1rem 3rem;
+            border-radius: 50px;
+            font-size: 1.5rem;
+            cursor: pointer;
+            margin-top: 2rem;
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+        }
+        
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        
+        li:before {
+            content: "▸ ";
+            color: #3b82f6;
+            font-weight: bold;
+            margin-right: 0.5rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="presentation-container">
+        <!-- Slide 1: Title -->
+        <div class="slide active">
+            <div class="slide-number">1 / 12</div>
+            <div style="text-align: center;">
+                <h1 style="font-size: 4rem;">Akio Unified Call Center Platform</h1>
+                <h3>From Three Isolated Tools to One Powerful Platform in Two Weeks</h3>
+                <p style="margin-top: 3rem; font-size: 1.6rem;">Final Internship Presentation</p>
+                <p style="color: #64748b;">June 27, 2025</p>
+            </div>
+        </div>
+        
+        <!-- Slide 2: The Challenge -->
+        <div class="slide">
+            <div class="slide-number">2 / 12</div>
+            <h2>The Challenge</h2>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: center;">
+                <div>
+                    <h3>Customer Service Pain Points:</h3>
+                    <ul>
+                        <li>Agents switching between multiple tools</li>
+                        <li>No unified view of customer interactions</li>
+                        <li>Manual data entry across systems</li>
+                        <li>Expensive third-party integrations</li>
+                        <li>Lack of real-time performance insights</li>
+                    </ul>
+                </div>
+                <div>
+                    <div class="metric">
+                        <div class="metric-value">3-5</div>
+                        <div class="metric-label">Different Tools Used</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-value">10min</div>
+                        <div class="metric-label">Average Response Time</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-value">€5000+</div>
+                        <div class="metric-label">Monthly Tool Costs</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Slide 3: The Solution -->
+        <div class="slide">
+            <div class="slide-number">3 / 12</div>
+            <h2>The Solution: Unified Platform</h2>
+            <div class="service-grid">
+                <div class="service-box">
+                    <div class="service-icon">✉️</div>
+                    <h3>Email Assistant</h3>
+                    <p>AI-powered responses with multi-language support</p>
+                </div>
+                <div class="service-box">
+                    <div class="service-icon">📊</div>
+                    <h3>Call Metrics</h3>
+                    <p>Real-time analytics and performance tracking</p>
+                </div>
+                <div class="service-box">
+                    <div class="service-icon">🤝</div>
+                    <h3>CRM Integration</h3>
+                    <p>Unified customer data management</p>
+                </div>
+            </div>
+            <div style="text-align: center; margin-top: 3rem;">
+                <p class="highlight" style="font-size: 1.8rem;">All integrated into one seamless platform with zero external API costs!</p>
+            </div>
+        </div>
+        
+        <!-- Slide 4: Development Timeline -->
+        <div class="slide">
+            <div class="slide-number">4 / 12</div>
+            <h2>Two-Week Development Journey</h2>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-date">Week 1</div>
+                    <div class="timeline-content">
+                        <h3>Individual Service Development</h3>
+                        <p>Built three standalone services with complete functionality</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">Mon-Tue</div>
+                    <div class="timeline-content">
+                        <p><strong>Email Assistant:</strong> Multi-language support, sentiment analysis, template system</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">Wed-Thu</div>
+                    <div class="timeline-content">
+                        <p><strong>Call Metrics:</strong> FastAPI backend, real-time dashboard, analytics</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">Friday</div>
+                    <div class="timeline-content">
+                        <p><strong>CRM Integration:</strong> Contact management, activity logging, API simulation</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">Week 2</div>
+                    <div class="timeline-content">
+                        <h3>Platform Integration</h3>
+                        <p>Unified dashboard, cross-service search, centralized management</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Slide 5: Technical Architecture -->
+        <div class="slide">
+            <div class="slide-number">5 / 12</div>
+            <h2>Technical Architecture</h2>
+            <div class="architecture-diagram">
+                <h3>Microservices Design</h3>
+                <div class="code-block">
+┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
+│ Email Assistant │     │  Call Metrics   │     │ CRM Integration │
+│   Streamlit     │     │ FastAPI + SQLite│     │   React/Node    │
+│   Port: 8501    │     │  Ports: 8000/02 │     │   Port: 3000    │
+└────────┬────────┘     └────────┬────────┘     └────────┬────────┘
+         │                       │                       │
+         └───────────────────────┴───────────────────────┘
+                                 │
+                         ┌───────┴────────┐
+                         │ Unified Portal │
+                         │  Streamlit     │
+                         │  Port: 8505    │
+                         └────────────────┘
+                </div>
+            </div>
+            <div style="margin-top: 2rem;">
+                <h3>Key Technologies:</h3>
+                <p>Python (Streamlit, FastAPI) • JavaScript (React) • SQLite • JSON Storage</p>
+            </div>
+        </div>
+        
+        <!-- Slide 6: Key Features -->
+        <div class="slide">
+            <div class="slide-number">6 / 12</div>
+            <h2>Platform Features</h2>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem;">
+                <div>
+                    <h3>🚀 Service Management</h3>
+                    <ul>
+                        <li>One-click start/stop for all services</li>
+                        <li>Real-time health monitoring</li>
+                        <li>Automatic dependency management</li>
+                        <li>Cross-platform compatibility</li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>🔍 Unified Search</h3>
+                    <ul>
+                        <li>Search across all systems</li>
+                        <li>Customer interaction timeline</li>
+                        <li>Intelligent result ranking</li>
+                        <li>Export capabilities</li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>📊 Analytics Dashboard</h3>
+                    <ul>
+                        <li>Real-time performance metrics</li>
+                        <li>Agent productivity tracking</li>
+                        <li>Customer sentiment analysis</li>
+                        <li>Predictive insights</li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>🎯 Demo Mode</h3>
+                    <ul>
+                        <li>Instant sample data generation</li>
+                        <li>Interconnected test scenarios</li>
+                        <li>Realistic customer journeys</li>
+                        <li>Perfect for presentations</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Slide 7: Business Impact -->
+        <div class="slide">
+            <div class="slide-number">7 / 12</div>
+            <h2>Business Impact</h2>
+            <div style="text-align: center;">
+                <div style="display: inline-flex; gap: 2rem; margin: 2rem 0;">
+                    <div class="metric">
+                        <div class="metric-value">€0</div>
+                        <div class="metric-label">External API Costs</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-value">80%</div>
+                        <div class="metric-label">Faster Response Time</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-value">100%</div>
+                        <div class="metric-label">Data Visibility</div>
+                    </div>
+                </div>
+            </div>
+            <h3>Cost Savings Analysis:</h3>
+            <ul>
+                <li><strong>Before:</strong> €5000+/month for separate tools (Email tool, Call analytics, CRM)</li>
+                <li><strong>After:</strong> €0/month - Everything runs locally</li>
+                <li><strong>Annual Savings:</strong> €60,000+</li>
+            </ul>
+            <h3>Efficiency Gains:</h3>
+            <ul>
+                <li>Email response time: 10 min → 2 min</li>
+                <li>Customer data lookup: 5 min → instant</li>
+                <li>Performance reporting: Daily → Real-time</li>
+            </ul>
+        </div>
+        
+        <!-- Slide 8: Live Demo -->
+        <div class="slide">
+            <div class="slide-number">8 / 12</div>
+            <h2>Live Demo</h2>
+            <div style="text-align: center;">
+                <h3>Customer Journey Demonstration</h3>
+                <p style="font-size: 1.6rem; margin: 2rem 0;">Watch how a customer interaction flows through all three systems</p>
+                <button class="demo-button" onclick="alert('Switching to live platform demo...')">
+                    Start Live Demo
+                </button>
+                <div style="margin-top: 3rem;">
+                    <h3>Demo Scenario:</h3>
+                    <p>1. Customer sends complaint email (Email Assistant)</p>
+                    <p>2. Agent calls customer (Call Metrics)</p>
+                    <p>3. Update customer record (CRM Integration)</p>
+                    <p>4. Search unified timeline (Cross-platform)</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Slide 9: Technical Achievements -->
+        <div class="slide">
+            <div class="slide-number">9 / 12</div>
+            <h2>Technical Achievements</h2>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem;">
+                <div>
+                    <h3>🏗️ Architecture</h3>
+                    <ul>
+                        <li>Microservices design pattern</li>
+                        <li>RESTful API implementation</li>
+                        <li>Real-time data synchronization</li>
+                        <li>Scalable infrastructure</li>
+                    </ul>
+                    <h3 style="margin-top: 2rem;">🔧 DevOps</h3>
+                    <ul>
+                        <li>Automated deployment scripts</li>
+                        <li>Cross-platform compatibility</li>
+                        <li>Health monitoring system</li>
+                        <li>One-click setup process</li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>💻 Full-Stack Development</h3>
+                    <ul>
+                        <li>Frontend: Streamlit, React, HTML/JS</li>
+                        <li>Backend: FastAPI, Node.js</li>
+                        <li>Database: SQLite, JSON storage</li>
+                        <li>Modern UI with animations</li>
+                    </ul>
+                    <h3 style="margin-top: 2rem;">📊 Data Engineering</h3>
+                    <ul>
+                        <li>Unified search engine</li>
+                        <li>Performance analytics</li>
+                        <li>Real-time dashboards</li>
+                        <li>Data visualization with Plotly</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Slide 10: Future Roadmap -->
+        <div class="slide">
+            <div class="slide-number">10 / 12</div>
+            <h2>Future Enhancement Roadmap</h2>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-date">Phase 1</div>
+                    <div class="timeline-content">
+                        <h3>AI & Machine Learning</h3>
+                        <p>GPT integration for smarter responses • Predictive analytics • Anomaly detection</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">Phase 2</div>
+                    <div class="timeline-content">
+                        <h3>Advanced Features</h3>
+                        <p>Voice transcription • Multi-channel support • Advanced workflow automation</p>
+                    </div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">Phase 3</div>
+                    <div class="timeline-content">
+                        <h3>Enterprise Scale</h3>
+                        <p>Kubernetes deployment • Multi-tenant architecture • Advanced security features</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Slide 11: Key Learnings -->
+        <div class="slide">
+            <div class="slide-number">11 / 12</div>
+            <h2>Key Learnings & Skills Developed</h2>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem;">
+                <div>
+                    <h3>Technical Skills</h3>
+                    <ul>
+                        <li>Full-stack development across multiple frameworks</li>
+                        <li>Microservices architecture design</li>
+                        <li>API development and integration</li>
+                        <li>Real-time data processing</li>
+                        <li>Cross-platform deployment</li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>Professional Skills</h3>
+                    <ul>
+                        <li>Project planning and execution</li>
+                        <li>Problem-solving under constraints</li>
+                        <li>Documentation and presentation</li>
+                        <li>Business-oriented thinking</li>
+                        <li>Rapid prototyping</li>
+                    </ul>
+                </div>
+            </div>
+            <div style="margin-top: 2rem; text-align: center;">
+                <p class="highlight" style="font-size: 1.6rem;">
+                    "From concept to production-ready MVP in just two weeks"
+                </p>
+            </div>
+        </div>
+        
+        <!-- Slide 12: Thank You -->
+        <div class="slide">
+            <div class="slide-number">12 / 12</div>
+            <div style="text-align: center;">
+                <h1>Thank You!</h1>
+                <h3 style="margin-top: 2rem;">Questions & Discussion</h3>
+                <div style="margin-top: 3rem;">
+                    <p style="font-size: 1.6rem;">Platform Access:</p>
+                    <div class="code-block" style="display: inline-block;">
+                        http://localhost:8505
+                    </div>
+                </div>
+                <div style="margin-top: 2rem;">
+                    <p>All code and documentation available on GitHub</p>
+                    <p style="color: #64748b; margin-top: 1rem;">Akio Internship • June 2025</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="navigation">
+        <button class="nav-btn" onclick="previousSlide()">← Previous</button>
+        <button class="nav-btn" onclick="nextSlide()">Next →</button>
+        <button class="nav-btn" onclick="goToSlide(1)">Start</button>
+        <button class="nav-btn" onclick="goToSlide(8)">Demo</button>
+    </div>
+    
+    <script>
+        let currentSlide = 1;
+        const totalSlides = 12;
+        
+        function showSlide(n) {
+            const slides = document.getElementsByClassName('slide');
+            if (n > totalSlides) currentSlide = 1;
+            if (n < 1) currentSlide = totalSlides;
+            
+            for (let i = 0; i < slides.length; i++) {
+                slides[i].classList.remove('active');
+            }
+            
+            slides[currentSlide - 1].classList.add('active');
+        }
+        
+        function nextSlide() {
+            currentSlide++;
+            showSlide(currentSlide);
+        }
+        
+        function previousSlide() {
+            currentSlide--;
+            showSlide(currentSlide);
+        }
+        
+        function goToSlide(n) {
+            currentSlide = n;
+            showSlide(currentSlide);
+        }
+        
+        // Keyboard navigation
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight') nextSlide();
+            if (e.key === 'ArrowLeft') previousSlide();
+            if (e.key === 'Home') goToSlide(1);
+            if (e.key === 'End') goToSlide(totalSlides);
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,115 @@
+[
+  {
+    "timestamp": "2025-06-18 16:25:08",
+    "email": "Subject: Multiple billing discrepancies on my account\nDear Billing Department,\nI've discovered several concerning charges on my account that need immediate attention. First, I was charged €19.99 three times on March 15th instead of once. Second, there's an unexplained fee of €5.99 labeled \"service charge\" that I never authorized. Third, my annual discount seems to have disappeared without notice.\nThis is causing significant stress and I need these billing errors corrected immediately. I've been a loyal customer for 4 years and this is completely unacceptable.\nPlease provide a detailed explanation and full refund of incorrect charges totaling €45.97.\nFrustrated and disappointed,\nRobert Thompson",
+    "response": "Dear Robert Thompson,\n\nThank you for contacting us about your refund request. I understand your concern and I'm here to help.\n\nI've reviewed your account and initiated the refund process. Here's what you can expect:\n\n• The refund will be processed within 3-5 business days\n• You'll receive a confirmation email once it's complete\n• The amount will be credited to your original payment method\n\nYour reference number is: REF-20250618-001\n\nIf you have any questions or don't see the refund within the timeframe, please don't hesitate to contact us.\n\nBest regards,\nCustomer Service Team",
+    "sentiment": "Negative",
+    "language": "English",
+    "email_type": "Refund Request",
+    "keywords": [
+      "refund",
+      "error",
+      "account"
+    ],
+    "customer_name": "Valued Customer",
+    "word_count": 103,
+    "urgent": false,
+    "priority_score": 50,
+    "status": "processed",
+    "queue_id": "Q20250618162508",
+    "processed_time": "2025-06-18 16:31:36"
+  },
+  {
+    "timestamp": "2025-06-19 10:06:00",
+    "email": "Subject: Multiple billing discrepancies on my account\nDear Billing Department,\nI've discovered several concerning charges on my account that need immediate attention. First, I was charged €19.99 three times on March 15th instead of once. Second, there's an unexplained fee of €5.99 labeled \"service charge\" that I never authorized. Third, my annual discount seems to have disappeared without notice.\nThis is causing significant stress and I need these billing errors corrected immediately. I've been a loyal customer for 4 years and this is completely unacceptable.\nPlease provide a detailed explanation and full refund of incorrect charges totaling €45.97.\nFrustrated and disappointed,\nRobert Thompson",
+    "response": "Dear Robert Thompson,\n\nThank you for contacting us about your refund request. I understand your concern and I'm here to help.\n\nI've reviewed your account and initiated the refund process. Here's what you can expect:\n\n• The refund will be processed within 3-5 business days\n• You'll receive a confirmation email once it's complete\n• The amount will be credited to your original payment method\n\nYour reference number is: REF-20250619-001\n\nIf you have any questions or don't see the refund within the timeframe, please don't hesitate to contact us.\n\nBest regards,\nCustomer Service Team",
+    "sentiment": "Negative",
+    "language": "English",
+    "email_type": "Refund Request",
+    "keywords": [
+      "refund",
+      "error",
+      "account"
+    ],
+    "customer_name": "Valued Customer",
+    "word_count": 103,
+    "urgent": false,
+    "priority_score": 50,
+    "status": "processed",
+    "queue_id": "Q20250619100600",
+    "processed_time": "2025-06-19 11:31:52"
+  },
+  {
+    "timestamp": "2025-06-24 16:32:10",
+    "email": "Subject: Defective product received - immediate replacement needed\nHi Customer Service,\nI received my order yesterday and I'm extremely disappointed. The wireless headphones I ordered have a crackling sound in the left ear and the charging case doesn't close properly. This is clearly a manufacturing defect.\nI paid €89.99 for a premium product and received something that's completely unusable. I need a replacement sent immediately or I want a full refund.\nThis is very frustrating as I needed these for an important business trip next week.\nUnhappy customer,\nMark Rodriguez",
+    "response": "Dear Mark Rodriguez,\n\nThank you for contacting us about your refund request. I understand your concern and I'm here to help.\n\nI've reviewed your account and initiated the refund process. Here's what you can expect:\n\n• The refund will be processed within 3-5 business days\n• You'll receive a confirmation email once it's complete\n• The amount will be credited to your original payment method\n\nYour reference number is: REF-20250624-001\n\nIf you have any questions or don't see the refund within the timeframe, please don't hesitate to contact us.\n\nBest regards,\nCustomer Service Team",
+    "sentiment": "Neutral",
+    "language": "English",
+    "email_type": "Refund Request",
+    "keywords": [
+      "refund",
+      "order"
+    ],
+    "customer_name": "Valued Customer",
+    "word_count": 90,
+    "urgent": false,
+    "priority_score": 30,
+    "status": "processed",
+    "queue_id": "Q20250624163210",
+    "processed_time": "2025-06-27 10:28:36"
+  },
+  {
+    "timestamp": "2025-06-27 10:32:02",
+    "email": "Asunto: Error al cargar mi perfil de usuario\nHola Soporte Técnico,\nTengo un problema con mi cuenta. Cuando intento acceder a mi perfil de usuario, la página se queda cargando indefinidamente y nunca muestra mi información.\nHe intentado desde diferentes navegadores y dispositivos, pero el problema persiste. También he limpiado el caché y las cookies, pero nada funciona.\n¿Pueden ayudarme a resolver este problema técnico? Necesito acceder a mi perfil para actualizar mi información de facturación.\nGracias por su ayuda,\nAna Gutierrez",
+    "response": "Dear Ana Gutierrez,\n\nThank you for reporting this technical issue. I'm here to help you resolve it as quickly as possible.\n\nBased on your description, here are some immediate steps to try:\n\n1. Clear your browser cache and cookies\n2. Log out and log back into your account\n3. Try using a different browser or device\n\nIf these steps don't resolve the issue, please provide:\n• Your device type and operating system\n• The browser you're using\n• Any error messages you see\n\nI'll monitor your case personally to ensure it's resolved promptly.\n\nBest regards,\nCustomer Service Team",
+    "sentiment": "Negative",
+    "language": "Spanish",
+    "email_type": "Technical Support",
+    "keywords": [
+      "problem",
+      "error"
+    ],
+    "customer_name": "Valued Customer",
+    "word_count": 82,
+    "urgent": false,
+    "priority_score": 30,
+    "status": "pending",
+    "queue_id": "Q20250627103202"
+  },
+  {
+    "timestamp": "2025-06-27 10:32:14",
+    "email": "Betreff: Website-Fehler beim Checkout-Prozess\nSehr geehrtes Support-Team,\nseit drei Tagen kann ich meinen Einkauf nicht abschließen. Bei Schritt 3 des Checkout-Prozesses erscheint immer eine Fehlermeldung: \"Zahlung konnte nicht verarbeitet werden\". Ich habe verschiedene Kreditkarten ausprobiert, aber das Problem besteht weiterhin.\nKönnen Sie mir bitte dabei helfen, dieses technische Problem zu lösen? Ich möchte meine Bestellung endlich aufgeben.\nMit freundlichen Grüßen,\nKlaus Weber",
+    "response": "Dear Klaus Weber,\n\nThank you for contacting us. I've carefully reviewed your message and I'm here to assist you.\n\nBased on your inquiry, I'll be happy to help you with the information you need. Our team is committed to providing you with the best possible service.\n\nPlease let me know if you need any clarification or have additional questions. We're here to help!\n\nBest regards,\nCustomer Service Team",
+    "sentiment": "Negative",
+    "language": "German",
+    "email_type": "General Inquiry",
+    "keywords": [
+      "problem"
+    ],
+    "customer_name": "Valued Customer",
+    "word_count": 62,
+    "urgent": false,
+    "priority_score": 30,
+    "status": "pending",
+    "queue_id": "Q20250627103214"
+  },
+  {
+    "timestamp": "2025-06-27 10:32:25",
+    "email": "Subject: Multiple billing discrepancies on my account\nDear Billing Department,\nI've discovered several concerning charges on my account that need immediate attention. First, I was charged €19.99 three times on March 15th instead of once. Second, there's an unexplained fee of €5.99 labeled \"service charge\" that I never authorized. Third, my annual discount seems to have disappeared without notice.\nThis is causing significant stress and I need these billing errors corrected immediately. I've been a loyal customer for 4 years and this is completely unacceptable.\nPlease provide a detailed explanation and full refund of incorrect charges totaling €45.97.\nFrustrated and disappointed,\nRobert Thompson",
+    "response": "Dear Robert Thompson,\n\nThank you for contacting us about your refund request. I understand your concern and I'm here to help.\n\nI've reviewed your account and initiated the refund process. Here's what you can expect:\n\n• The refund will be processed within 3-5 business days\n• You'll receive a confirmation email once it's complete\n• The amount will be credited to your original payment method\n\nYour reference number is: REF-20250627-001\n\nIf you have any questions or don't see the refund within the timeframe, please don't hesitate to contact us.\n\nBest regards,\nCustomer Service Team",
+    "sentiment": "Negative",
+    "language": "English",
+    "email_type": "Refund Request",
+    "keywords": [
+      "refund",
+      "error",
+      "account"
+    ],
+    "customer_name": "Valued Customer",
+    "word_count": 103,
+    "urgent": false,
+    "priority_score": 50,
+    "status": "pending",
+    "queue_id": "Q20250627103225"
+  }
+]
