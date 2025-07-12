@@ -186,8 +186,7 @@ MIT License - Free for personal and commercial use.
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/akio-unified-platform/issues)
-- **Email**: your-email@example.com
+- **Email**: taqirizvi1412@gmail.com
 
 ---
 
